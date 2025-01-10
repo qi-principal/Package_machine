@@ -1,0 +1,9 @@
+{
+    "app_name": "Package Machine",
+    "language": "zh_CN",
+    "theme": "light",
+    "max_recent_files": 10,
+    "auto_save": true,
+    "save_interval": 300,
+    "log_level": "INFO"
+}

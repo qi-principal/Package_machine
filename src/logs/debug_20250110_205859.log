@@ -1,0 +1,1474 @@
+2025-01-10 20:58:59,477 - root - INFO - 日志系统初始化完成
+2025-01-10 20:58:59,477 - root - DEBUG - 日志文件: logs\debug_20250110_205859.log
+2025-01-10 20:58:59,486 - src.core.file_system - DEBUG - 文件系统处理器初始化完成
+2025-01-10 20:58:59,486 - src.core.file_filter - DEBUG - 文件过滤器初始化完成
+2025-01-10 20:58:59,486 - src.core.file_mover - DEBUG - 文件移动器初始化完成
+2025-01-10 20:59:00,170 - src.core.file_filter - DEBUG - 添加允许的扩展名: .txt
+2025-01-10 20:59:00,170 - src.core.file_filter - DEBUG - 添加允许的扩展名: .doc
+2025-01-10 20:59:00,170 - src.core.file_filter - DEBUG - 添加允许的扩展名: .docx
+2025-01-10 20:59:00,170 - src.core.file_filter - DEBUG - 添加允许的扩展名: .pdf
+2025-01-10 20:59:00,171 - src.core.file_filter - DEBUG - 添加允许的扩展名: .jpg
+2025-01-10 20:59:00,171 - src.core.file_filter - DEBUG - 添加允许的扩展名: .jpeg
+2025-01-10 20:59:00,171 - src.core.file_filter - DEBUG - 添加允许的扩展名: .png
+2025-01-10 20:59:00,171 - src.core.file_filter - DEBUG - 添加允许的扩展名: .gif
+2025-01-10 20:59:00,171 - src.core.file_filter - DEBUG - 添加允许的扩展名: .mp3
+2025-01-10 20:59:00,171 - src.core.file_filter - DEBUG - 添加允许的扩展名: .mp4
+2025-01-10 20:59:00,171 - src.core.file_filter - DEBUG - 添加允许的扩展名: .zip
+2025-01-10 20:59:00,171 - src.core.file_filter - DEBUG - 添加允许的扩展名: .rar
+2025-01-10 20:59:00,171 - root - INFO - 函数 initialize 执行完成 - 耗时: 0.69秒, 内存变化: +14.4MB
+2025-01-10 20:59:07,273 - src.utils.performance - INFO - 性能监控 - CPU使用率: 0.0%, 物理内存: 130.0MB, 内存使用率: 0.8%
+2025-01-10 20:59:30,160 - src.utils.performance - INFO - 性能监控 - CPU使用率: 0.2%, 物理内存: 130.2MB, 内存使用率: 0.8%
+2025-01-10 21:00:00,162 - src.utils.performance - INFO - 性能监控 - CPU使用率: 0.0%, 物理内存: 130.0MB, 内存使用率: 0.8%
+2025-01-10 21:00:30,164 - src.utils.performance - INFO - 性能监控 - CPU使用率: 0.7%, 物理内存: 163.9MB, 内存使用率: 1.0%
+2025-01-10 21:01:00,180 - src.utils.performance - INFO - 性能监控 - CPU使用率: 2.9%, 物理内存: 165.3MB, 内存使用率: 1.0%
+2025-01-10 21:01:05,158 - src.core.file_system - DEBUG - 开始收集目录信息: E:/FILES/PDF
+2025-01-10 21:01:05,158 - src.core.file_system - DEBUG - 扫描目录: E:/FILES/PDF
+2025-01-10 21:01:05,158 - src.core.file_system - DEBUG - 处理文件: E:/FILES/PDF\MVG-GWO算法.pdf
+2025-01-10 21:01:05,158 - src.core.file_system - DEBUG - 文件信息: 大小=396.8 KB, 修改时间=2024-08-14 21:40:56.573546
+2025-01-10 21:01:05,158 - src.core.file_system - DEBUG - 处理文件: E:/FILES/PDF\Python数据分析与挖掘实战.pdf
+2025-01-10 21:01:05,158 - src.core.file_system - DEBUG - 文件信息: 大小=63.0 MB, 修改时间=2024-08-09 20:31:11.507833
+2025-01-10 21:01:05,158 - src.core.file_system - DEBUG - 处理文件: E:/FILES/PDF\上海理工大学-计算机科学与技术-孙永安.pdf
+2025-01-10 21:01:05,158 - src.core.file_system - DEBUG - 文件信息: 大小=2.3 MB, 修改时间=2024-08-21 14:14:42.533402
+2025-01-10 21:01:05,158 - src.core.file_system - DEBUG - 文件信息收集完成，共 3 个文件
+2025-01-10 21:01:05,158 - src.core.file_filter - DEBUG - 检查文件 E:/FILES/PDF\MVG-GWO算法.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:05,159 - src.core.file_filter - DEBUG - 检查文件 E:/FILES/PDF\Python数据分析与挖掘实战.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:05,159 - src.core.file_filter - DEBUG - 检查文件 E:/FILES/PDF\上海理工大学-计算机科学与技术-孙永安.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:05,159 - root - INFO - 函数 refresh_file_list 执行完成 - 耗时: 0.00秒, 内存变化: +0.0MB
+2025-01-10 21:01:05,163 - root - INFO - 函数 select_folder 执行完成 - 耗时: 48.75秒, 内存变化: +33.5MB
+2025-01-10 21:01:07,166 - src.core.file_system - DEBUG - 开始收集目录信息: E:/FILES/PDF
+2025-01-10 21:01:07,166 - src.core.file_system - DEBUG - 扫描目录: E:/FILES/PDF
+2025-01-10 21:01:07,166 - src.core.file_system - DEBUG - 处理文件: E:/FILES/PDF\MVG-GWO算法.pdf
+2025-01-10 21:01:07,167 - src.core.file_system - DEBUG - 文件信息: 大小=396.8 KB, 修改时间=2024-08-14 21:40:56.573546
+2025-01-10 21:01:07,167 - src.core.file_system - DEBUG - 处理文件: E:/FILES/PDF\Python数据分析与挖掘实战.pdf
+2025-01-10 21:01:07,167 - src.core.file_system - DEBUG - 文件信息: 大小=63.0 MB, 修改时间=2024-08-09 20:31:11.507833
+2025-01-10 21:01:07,167 - src.core.file_system - DEBUG - 处理文件: E:/FILES/PDF\上海理工大学-计算机科学与技术-孙永安.pdf
+2025-01-10 21:01:07,167 - src.core.file_system - DEBUG - 文件信息: 大小=2.3 MB, 修改时间=2024-08-21 14:14:42.533402
+2025-01-10 21:01:07,167 - src.core.file_system - DEBUG - 文件信息收集完成，共 3 个文件
+2025-01-10 21:01:07,167 - src.core.file_filter - DEBUG - 当前允许的扩展名: ['.pdf', '.txt', '.gif', '.zip', '.jpeg', '.doc', '.png', '.mp3', '.mp4', '.rar', '.docx', '.jpg']
+2025-01-10 21:01:07,167 - src.core.file_filter - DEBUG - 检查文件 MVG-GWO算法.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:07,167 - src.core.file_filter - DEBUG - 检查文件 Python数据分析与挖掘实战.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:07,167 - src.core.file_filter - DEBUG - 检查文件 上海理工大学-计算机科学与技术-孙永安.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:07,176 - root - INFO - 函数 start_classification 执行完成 - 耗时: 0.01秒, 内存变化: +0.1MB
+2025-01-10 21:01:07,177 - root - DEBUG - 开始增强文件信息...
+2025-01-10 21:01:07,177 - src.core.ai_classifier - DEBUG - 开始增强文件信息，共 3 个文件
+2025-01-10 21:01:07,177 - src.core.ai_classifier - DEBUG - 文件 MVG-GWO算法.pdf 信息增强完成
+2025-01-10 21:01:07,177 - src.core.ai_classifier - DEBUG - 文件 Python数据分析与挖掘实战.pdf 信息增强完成
+2025-01-10 21:01:07,177 - src.core.ai_classifier - DEBUG - 文件 上海理工大学-计算机科学与技术-孙永安.pdf 信息增强完成
+2025-01-10 21:01:07,177 - src.core.ai_classifier - DEBUG - 文件信息增强完成
+2025-01-10 21:01:07,177 - root - DEBUG - 文件信息增强完成，共 3 个文件
+2025-01-10 21:01:07,177 - root - DEBUG - 发现已有分类目录: ['个人随笔', '学习资料', '学术研究', '技术文档', '未分类', '演讲材料', '设计文档', '项目文档']
+2025-01-10 21:01:07,177 - root - DEBUG - 开始处理第 1-3 批次文件
+2025-01-10 21:01:07,177 - root - DEBUG - 调用AI分类器...
+2025-01-10 21:01:07,177 - src.core.ai_classifier - DEBUG - 开始批量分类文件，共 3 个文件
+2025-01-10 21:01:07,177 - src.core.ai_classifier - DEBUG - 已有分类目录: ['个人随笔', '学习资料', '学术研究', '技术文档', '未分类', '演讲材料', '设计文档', '项目文档']
+2025-01-10 21:01:07,177 - src.core.ai_classifier - DEBUG - 正在初始化 DeepSeek 客户端...
+2025-01-10 21:01:07,178 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-01-10 21:01:07,180 - httpx - DEBUG - load_verify_locations cafile='D:\\Anaconda3\\envs\\package_machine\\lib\\site-packages\\certifi\\cacert.pem'
+2025-01-10 21:01:07,348 - src.core.ai_classifier - DEBUG - DeepSeek 客户端初始化完成
+2025-01-10 21:01:07,348 - src.core.ai_classifier - DEBUG - 开始生成分类提示...
+2025-01-10 21:01:07,348 - src.core.ai_classifier - DEBUG - 开始创建分类提示，文件数量：3，已有分类数量：8
+2025-01-10 21:01:07,348 - src.core.ai_classifier - DEBUG - 添加文件描述: MVG-GWO算法.pdf
+2025-01-10 21:01:07,348 - src.core.ai_classifier - DEBUG - 添加文件描述: Python数据分析与挖掘实战.pdf
+2025-01-10 21:01:07,348 - src.core.ai_classifier - DEBUG - 添加文件描述: 上海理工大学-计算机科学与技术-孙永安.pdf
+2025-01-10 21:01:07,348 - src.core.ai_classifier - DEBUG - 已有分类目录: ['个人随笔', '学习资料', '学术研究', '技术文档', '未分类', '演讲材料', '设计文档', '项目文档']
+2025-01-10 21:01:07,348 - src.core.ai_classifier - DEBUG - 分类提示创建完成，提示内容:
+请帮我将以下文件分类到合适的文件夹中。
+分类要求：
+1. 主要根据文件的实际内容和用途进行分类，而不是文件格式
+2. 相同格式的文件可能属于不同类别，需要深入分析文件名和内容含义
+3. 分类粒度要适中，既不要过于笼统也不要过于细致
+4. 文件夹名称使用有意义的中文词组
+5. 必须详细说明分类理由，重点解释基于内容的判断依据
+6. 优先复用已有的分类目录，但如果现有类别不合适，可以创建新的
+7. 对于内容相近的文件，应该分类到同一目录下
+
+返回格式要求：
+{
+    "example.docx": {
+        "target_folder": "产品文档",
+        "reason": "根据文件名和内容分析，这是一份产品相关的技术文档"
+    }
+}
+
+已有的分类目录：
+- 个人随笔
+- 学习资料
+- 学术研究
+- 技术文档
+- 未分类
+- 演讲材料
+- 设计文档
+- 项目文档
+
+待分类文件：
+文件名: MVG-GWO算法.pdf
+大小: 396.8 KB
+修改时间: 2024-08-14 21:40:56.573546
+---
+文件名: Python数据分析与挖掘实战.pdf
+大小: 63.0 MB
+修改时间: 2024-08-09 20:31:11.507833
+---
+文件名: 上海理工大学-计算机科学与技术-孙永安.pdf
+大小: 2.3 MB
+修改时间: 2024-08-21 14:14:42.533402
+2025-01-10 21:01:07,348 - src.core.ai_classifier - DEBUG - 分类提示生成完成，提示内容:
+请帮我将以下文件分类到合适的文件夹中。
+分类要求：
+1. 主要根据文件的实际内容和用途进行分类，而不是文件格式
+2. 相同格式的文件可能属于不同类别，需要深入分析文件名和内容含义
+3. 分类粒度要适中，既不要过于笼统也不要过于细致
+4. 文件夹名称使用有意义的中文词组
+5. 必须详细说明分类理由，重点解释基于内容的判断依据
+6. 优先复用已有的分类目录，但如果现有类别不合适，可以创建新的
+7. 对于内容相近的文件，应该分类到同一目录下
+
+返回格式要求：
+{
+    "example.docx": {
+        "target_folder": "产品文档",
+        "reason": "根据文件名和内容分析，这是一份产品相关的技术文档"
+    }
+}
+
+已有的分类目录：
+- 个人随笔
+- 学习资料
+- 学术研究
+- 技术文档
+- 未分类
+- 演讲材料
+- 设计文档
+- 项目文档
+
+待分类文件：
+文件名: MVG-GWO算法.pdf
+大小: 396.8 KB
+修改时间: 2024-08-14 21:40:56.573546
+---
+文件名: Python数据分析与挖掘实战.pdf
+大小: 63.0 MB
+修改时间: 2024-08-09 20:31:11.507833
+---
+文件名: 上海理工大学-计算机科学与技术-孙永安.pdf
+大小: 2.3 MB
+修改时间: 2024-08-21 14:14:42.533402
+2025-01-10 21:01:07,350 - src.core.ai_classifier - DEBUG - 开始调用 DeepSeek API...
+2025-01-10 21:01:07,356 - openai._base_client - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'system', 'content': '你是一个专业的文件分类助手。请按照以下格式返回分类结果：\n{\n    "文件名.扩展名": {\n        "target_folder": "目标文件夹名称",\n        "reason": "分类理由"\n    }\n}\n注意：\n1. 返回格式必须是合法的JSON\n2. 所有文本必须使用双引号\n3. 优先使用已有的分类目录\n4. 给出合理的分类理由\n5. 使用文件名（不是完整路径）作为键'}, {'role': 'user', 'content': '请帮我将以下文件分类到合适的文件夹中。\n分类要求：\n1. 主要根据文件的实际内容和用途进行分类，而不是文件格式\n2. 相同格式的文件可能属于不同类别，需要深入分析文件名和内容含义\n3. 分类粒度要适中，既不要过于笼统也不要过于细致\n4. 文件夹名称使用有意义的中文词组\n5. 必须详细说明分类理由，重点解释基于内容的判断依据\n6. 优先复用已有的分类目录，但如果现有类别不合适，可以创建新的\n7. 对于内容相近的文件，应该分类到同一目录下\n\n返回格式要求：\n{\n    "example.docx": {\n        "target_folder": "产品文档",\n        "reason": "根据文件名和内容分析，这是一份产品相关的技术文档"\n    }\n}\n\n已有的分类目录：\n- 个人随笔\n- 学习资料\n- 学术研究\n- 技术文档\n- 未分类\n- 演讲材料\n- 设计文档\n- 项目文档\n\n待分类文件：\n文件名: MVG-GWO算法.pdf\n大小: 396.8 KB\n修改时间: 2024-08-14 21:40:56.573546\n---\n文件名: Python数据分析与挖掘实战.pdf\n大小: 63.0 MB\n修改时间: 2024-08-09 20:31:11.507833\n---\n文件名: 上海理工大学-计算机科学与技术-孙永安.pdf\n大小: 2.3 MB\n修改时间: 2024-08-21 14:14:42.533402'}], 'model': 'deepseek-chat', 'temperature': 0.2}}
+2025-01-10 21:01:07,374 - openai._base_client - DEBUG - Sending HTTP Request: POST https://api.deepseek.com/chat/completions
+2025-01-10 21:01:07,374 - httpcore.connection - DEBUG - connect_tcp.started host='api.deepseek.com' port=443 local_address=None timeout=5.0 socket_options=None
+2025-01-10 21:01:07,401 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000247535A5CD0>
+2025-01-10 21:01:07,401 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x00000247471F85C0> server_hostname='api.deepseek.com' timeout=5.0
+2025-01-10 21:01:07,416 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000247535A5C40>
+2025-01-10 21:01:07,416 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-01-10 21:01:07,416 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-01-10 21:01:07,416 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-01-10 21:01:07,416 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-01-10 21:01:07,416 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-01-10 21:01:07,511 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Server', b'nginx'), (b'Date', b'Fri, 10 Jan 2025 13:01:05 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Set-Cookie', b'HWWAFSESTIME=1736514064462; path=/'), (b'Set-Cookie', b'HWWAFSESID=01eda1e127dfe89934e; path=/'), (b'vary', b'origin, access-control-request-method, access-control-request-headers'), (b'access-control-allow-credentials', b'true'), (b'x-ds-trace-id', b'b32da6a7bbee612c370cfbafe4618c00'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'X-Content-Type-Options', b'nosniff')])
+2025-01-10 21:01:07,512 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-01-10 21:01:07,512 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-01-10 21:01:09,467 - src.utils.performance - INFO - 性能监控 - CPU使用率: 2.2%, 物理内存: 166.7MB, 内存使用率: 1.0%
+2025-01-10 21:01:12,486 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-01-10 21:01:12,487 - httpcore.http11 - DEBUG - response_closed.started
+2025-01-10 21:01:12,487 - httpcore.http11 - DEBUG - response_closed.complete
+2025-01-10 21:01:12,487 - openai._base_client - DEBUG - HTTP Response: POST https://api.deepseek.com/chat/completions "200 OK" Headers([('server', 'nginx'), ('date', 'Fri, 10 Jan 2025 13:01:05 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('set-cookie', 'HWWAFSESTIME=1736514064462; path=/'), ('set-cookie', 'HWWAFSESID=01eda1e127dfe89934e; path=/'), ('vary', 'origin, access-control-request-method, access-control-request-headers'), ('access-control-allow-credentials', 'true'), ('x-ds-trace-id', 'b32da6a7bbee612c370cfbafe4618c00'), ('strict-transport-security', 'max-age=31536000; includeSubDomains; preload'), ('x-content-type-options', 'nosniff')])
+2025-01-10 21:01:12,487 - openai._base_client - DEBUG - request_id: None
+2025-01-10 21:01:12,497 - src.core.ai_classifier - DEBUG - DeepSeek API 调用完成
+2025-01-10 21:01:12,497 - src.core.ai_classifier - DEBUG - AI原始响应:
+{
+    "MVG-GWO算法.pdf": {
+        "target_folder": "学术研究",
+        "reason": "文件名中的'MVG-GWO算法'表明这是一份关于特定算法的研究文档，可能涉及数学或计算机科学领域的研究内容，适合归类到学术研究"
+    },
+    "Python数据分析与挖掘实战.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名中的'Python数据分析与挖掘实战'表明这是一份关于Python编程语言在数据分析和挖掘方面应用的教程或指南，适合归类到学习资料"
+    },
+    "上海理工大学-计算机科学与技术-孙永安.pdf": {
+        "target_folder": "学术研究",
+        "reason": "文件名中的'上海理工大学-计算机科学与技术-孙永安'表明这是一份与计算机科学与技术相关的学术文档，可能是一篇论文或研究报告，适合归类到学术研究"
+    }
+}
+2025-01-10 21:01:12,497 - src.core.ai_classifier - DEBUG - 提取的JSON文本:
+{
+    "MVG-GWO算法.pdf": {
+        "target_folder": "学术研究",
+        "reason": "文件名中的'MVG-GWO算法'表明这是一份关于特定算法的研究文档，可能涉及数学或计算机科学领域的研究内容，适合归类到学术研究"
+    },
+    "Python数据分析与挖掘实战.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名中的'Python数据分析与挖掘实战'表明这是一份关于Python编程语言在数据分析和挖掘方面应用的教程或指南，适合归类到学习资料"
+    },
+    "上海理工大学-计算机科学与技术-孙永安.pdf": {
+        "target_folder": "学术研究",
+        "reason": "文件名中的'上海理工大学-计算机科学与技术-孙永安'表明这是一份与计算机科学与技术相关的学术文档，可能是一篇论文或研究报告，适合归类到学术研究"
+    }
+}
+2025-01-10 21:01:12,497 - src.core.ai_classifier - DEBUG - AI响应解析完成，获得 3 个分类结果
+2025-01-10 21:01:12,497 - src.core.ai_classifier - DEBUG - 文件 MVG-GWO算法.pdf 被分类到 学术研究
+2025-01-10 21:01:12,498 - src.core.ai_classifier - DEBUG - 文件 Python数据分析与挖掘实战.pdf 被分类到 学习资料
+2025-01-10 21:01:12,498 - src.core.ai_classifier - DEBUG - 文件 上海理工大学-计算机科学与技术-孙永安.pdf 被分类到 学术研究
+2025-01-10 21:01:12,498 - src.core.ai_classifier - DEBUG - 分类完成统计:
+2025-01-10 21:01:12,498 - src.core.ai_classifier - DEBUG - - 复用已有分类: 2 个 ['学习资料', '学术研究']
+2025-01-10 21:01:12,498 - src.core.ai_classifier - DEBUG - - 新建分类: 0 个 []
+2025-01-10 21:01:12,498 - root - DEBUG - 批次处理完成，获得 3 个结果
+2025-01-10 21:01:12,498 - root - DEBUG - 当前进度: 100%
+2025-01-10 21:01:12,500 - root - DEBUG - 所有批次处理完成，准备更新结果...
+2025-01-10 21:01:12,502 - src.core.file_mover - DEBUG - 准备移动文件: E:/FILES/PDF\MVG-GWO算法.pdf -> E:/package\学术研究
+2025-01-10 21:01:12,502 - src.core.file_mover - DEBUG - 使用原文件名: MVG-GWO算法.pdf
+2025-01-10 21:01:12,502 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学术研究\MVG-GWO算法.pdf
+2025-01-10 21:01:12,502 - src.core.file_mover - INFO - 文件移动成功: E:/FILES/PDF\MVG-GWO算法.pdf -> E:/package\学术研究\MVG-GWO算法.pdf
+2025-01-10 21:01:12,503 - src.core.file_mover - DEBUG - 准备移动文件: E:/FILES/PDF\Python数据分析与挖掘实战.pdf -> E:/package\学习资料
+2025-01-10 21:01:12,503 - src.core.file_mover - DEBUG - 使用原文件名: Python数据分析与挖掘实战.pdf
+2025-01-10 21:01:12,503 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\Python数据分析与挖掘实战.pdf
+2025-01-10 21:01:12,503 - src.core.file_mover - INFO - 文件移动成功: E:/FILES/PDF\Python数据分析与挖掘实战.pdf -> E:/package\学习资料\Python数据分析与挖掘实战.pdf
+2025-01-10 21:01:12,504 - src.core.file_mover - DEBUG - 准备移动文件: E:/FILES/PDF\上海理工大学-计算机科学与技术-孙永安.pdf -> E:/package\学术研究
+2025-01-10 21:01:12,504 - src.core.file_mover - DEBUG - 使用原文件名: 上海理工大学-计算机科学与技术-孙永安.pdf
+2025-01-10 21:01:12,504 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学术研究\上海理工大学-计算机科学与技术-孙永安.pdf
+2025-01-10 21:01:12,504 - src.core.file_mover - INFO - 文件移动成功: E:/FILES/PDF\上海理工大学-计算机科学与技术-孙永安.pdf -> E:/package\学术研究\上海理工大学-计算机科学与技术-孙永安.pdf
+2025-01-10 21:01:29,637 - src.core.file_system - DEBUG - 开始收集目录信息: E:/FILES/PDF
+2025-01-10 21:01:29,637 - src.core.file_system - DEBUG - 扫描目录: E:/FILES/PDF
+2025-01-10 21:01:29,637 - src.core.file_system - DEBUG - 文件信息收集完成，共 0 个文件
+2025-01-10 21:01:29,637 - root - INFO - 函数 refresh_file_list 执行完成 - 耗时: 0.00秒, 内存变化: +0.0MB
+2025-01-10 21:01:29,637 - root - INFO - 函数 select_folder 执行完成 - 耗时: 3.19秒, 内存变化: +1.6MB
+2025-01-10 21:01:30,165 - src.utils.performance - INFO - 性能监控 - CPU使用率: 0.2%, 物理内存: 170.9MB, 内存使用率: 1.1%
+2025-01-10 21:01:40,280 - src.core.file_system - DEBUG - 开始收集目录信息: D:/面试
+2025-01-10 21:01:40,280 - src.core.file_system - DEBUG - 扫描目录: D:/面试
+2025-01-10 21:01:40,280 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA.zip
+2025-01-10 21:01:40,281 - src.core.file_system - DEBUG - 文件信息: 大小=260.6 MB, 修改时间=2024-10-15 17:06:40.481097
+2025-01-10 21:01:40,281 - src.core.file_system - DEBUG - 扫描目录: D:/面试\JAVA
+2025-01-10 21:01:40,281 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\1000道 互联网Java工程师面试题 485页_PDF.pdf
+2025-01-10 21:01:40,281 - src.core.file_system - DEBUG - 文件信息: 大小=4.3 MB, 修改时间=2020-09-10 17:17:48
+2025-01-10 21:01:40,281 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\B站 (免费在线学习猿地)(1).url
+2025-01-10 21:01:40,281 - src.core.file_system - DEBUG - 文件信息: 大小=175.0 B, 修改时间=2024-10-15 17:02:01.585843
+2025-01-10 21:01:40,281 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\B站 (免费在线学习猿地).url
+2025-01-10 21:01:40,281 - src.core.file_system - DEBUG - 文件信息: 大小=175.0 B, 修改时间=2024-10-12 10:38:51.332380
+2025-01-10 21:01:40,281 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\Dmz社区 - www.dmzshequ.com.url
+2025-01-10 21:01:40,281 - src.core.file_system - DEBUG - 文件信息: 大小=180.0 B, 修改时间=2024-10-15 17:02:01.584474
+2025-01-10 21:01:40,281 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\Java 工程师进阶知识完全扫盲.pdf
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 文件信息: 大小=10.7 MB, 修改时间=2024-10-15 17:02:03.410770
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\JavaGuide面试突击最新版.pdf
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 文件信息: 大小=23.3 MB, 修改时间=2024-10-15 17:02:05.874208
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\JavaGuide面试突击最新版夜间模式.pdf
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 文件信息: 大小=23.3 MB, 修改时间=2024-10-15 17:02:08.066139
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\Java基础知识篇.pdf
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 文件信息: 大小=2.3 MB, 修改时间=2024-10-15 17:02:07.928789
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\JAVA核心面试知识整理.pdf
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 文件信息: 大小=10.7 MB, 修改时间=2020-09-10 17:18:02
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\Java集合框架常见面试题.pdf
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 文件信息: 大小=1.6 MB, 修改时间=2024-10-15 17:02:08.294374
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\Java集合框架常见面试题夜间阅读版.pdf
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 文件信息: 大小=1.6 MB, 修改时间=2024-10-15 17:02:08.296342
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\RocketMQ 从入门到实战.pdf
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 文件信息: 大小=12.5 MB, 修改时间=2024-10-15 17:02:12.196815
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\RocketMQ源码解析.pdf
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 文件信息: 大小=5.0 MB, 修改时间=2024-10-15 17:02:14.343718
+2025-01-10 21:01:40,282 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\String常用方法.docx
+2025-01-10 21:01:40,283 - src.core.file_system - DEBUG - 文件信息: 大小=14.2 KB, 修改时间=2020-07-13 17:09:22
+2025-01-10 21:01:40,283 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\下载说明.txt
+2025-01-10 21:01:40,283 - src.core.file_system - DEBUG - 文件信息: 大小=211.0 B, 修改时间=2024-10-15 17:02:15.323299
+2025-01-10 21:01:40,285 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\低价云服务器-云产品.url
+2025-01-10 21:01:40,285 - src.core.file_system - DEBUG - 文件信息: 大小=179.0 B, 修改时间=2024-10-15 17:02:15.377806
+2025-01-10 21:01:40,285 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\分布式相关面试题汇总.pdf
+2025-01-10 21:01:40,285 - src.core.file_system - DEBUG - 文件信息: 大小=7.7 MB, 修改时间=2024-10-15 17:02:16.063742
+2025-01-10 21:01:40,285 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\图解HTTP.pdf
+2025-01-10 21:01:40,285 - src.core.file_system - DEBUG - 文件信息: 大小=15.6 MB, 修改时间=2024-10-15 17:02:18.583202
+2025-01-10 21:01:40,285 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\图解操作系统.pdf
+2025-01-10 21:01:40,285 - src.core.file_system - DEBUG - 文件信息: 大小=66.5 MB, 修改时间=2024-10-15 17:02:29.278013
+2025-01-10 21:01:40,285 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\图解网络.pdf
+2025-01-10 21:01:40,285 - src.core.file_system - DEBUG - 文件信息: 大小=30.8 MB, 修改时间=2024-10-15 17:02:23.106903
+2025-01-10 21:01:40,285 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\图解计算机基础.pdf
+2025-01-10 21:01:40,285 - src.core.file_system - DEBUG - 文件信息: 大小=23.7 MB, 修改时间=2024-10-15 17:02:28.155584
+2025-01-10 21:01:40,285 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\字节大佬总结的Java面试资料.pdf
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 文件信息: 大小=10.6 MB, 修改时间=2024-10-15 17:02:31.330455
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\技术面试常见智力题.pdf
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 文件信息: 大小=500.7 KB, 修改时间=2024-10-15 17:02:31.221080
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\海量IT学习资源免费下载(1).url
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 文件信息: 大小=179.0 B, 修改时间=2024-10-15 17:02:30.926304
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\海量IT学习资源免费下载.url
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 文件信息: 大小=179.0 B, 修改时间=2024-10-12 10:39:21.094192
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\消息队列常见面试题.pdf
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 文件信息: 大小=17.4 MB, 修改时间=2024-10-15 17:02:35.801542
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\消息队列常见面试题夜间版.pdf
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 文件信息: 大小=17.1 MB, 修改时间=2024-10-15 17:02:41.534338
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\网购通用优惠券(淘宝-京东-拼多多-等).url
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 文件信息: 大小=183.0 B, 修改时间=2024-10-15 17:02:42.757400
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\网赚天空.url
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 文件信息: 大小=182.0 B, 修改时间=2024-10-15 17:02:42.859833
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\设计模式面试题汇总.pdf
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 文件信息: 大小=1.9 MB, 修改时间=2024-10-15 17:02:43.151366
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\面试题.md
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 文件信息: 大小=105.6 KB, 修改时间=2020-09-10 16:43:02
+2025-01-10 21:01:40,286 - src.core.file_system - DEBUG - 文件信息收集完成，共 32 个文件
+2025-01-10 21:01:40,286 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA.zip - 扩展名: .zip - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\1000道 互联网Java工程师面试题 485页_PDF.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\B站 (免费在线学习猿地)(1).url - 扩展名: .url - 不允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\B站 (免费在线学习猿地).url - 扩展名: .url - 不允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\Dmz社区 - www.dmzshequ.com.url - 扩展名: .url - 不允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\Java 工程师进阶知识完全扫盲.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\JavaGuide面试突击最新版.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\JavaGuide面试突击最新版夜间模式.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\Java基础知识篇.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\JAVA核心面试知识整理.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\Java集合框架常见面试题.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\Java集合框架常见面试题夜间阅读版.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\RocketMQ 从入门到实战.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\RocketMQ源码解析.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\String常用方法.docx - 扩展名: .docx - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\下载说明.txt - 扩展名: .txt - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\低价云服务器-云产品.url - 扩展名: .url - 不允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\分布式相关面试题汇总.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\图解HTTP.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\图解操作系统.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\图解网络.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,287 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\图解计算机基础.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,288 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\字节大佬总结的Java面试资料.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,288 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\技术面试常见智力题.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,288 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\海量IT学习资源免费下载(1).url - 扩展名: .url - 不允许
+2025-01-10 21:01:40,288 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\海量IT学习资源免费下载.url - 扩展名: .url - 不允许
+2025-01-10 21:01:40,288 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\消息队列常见面试题.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,288 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\消息队列常见面试题夜间版.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,288 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\网购通用优惠券(淘宝-京东-拼多多-等).url - 扩展名: .url - 不允许
+2025-01-10 21:01:40,289 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\网赚天空.url - 扩展名: .url - 不允许
+2025-01-10 21:01:40,289 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\设计模式面试题汇总.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:40,289 - src.core.file_filter - DEBUG - 检查文件 D:/面试\JAVA\面试题.md - 扩展名: .md - 不允许
+2025-01-10 21:01:40,289 - root - INFO - 函数 refresh_file_list 执行完成 - 耗时: 0.01秒, 内存变化: +0.0MB
+2025-01-10 21:01:40,289 - root - INFO - 函数 select_folder 执行完成 - 耗时: 6.05秒, 内存变化: +0.3MB
+2025-01-10 21:01:44,188 - src.core.file_system - DEBUG - 开始收集目录信息: D:/面试
+2025-01-10 21:01:44,188 - src.core.file_system - DEBUG - 扫描目录: D:/面试
+2025-01-10 21:01:44,188 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA.zip
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 文件信息: 大小=260.6 MB, 修改时间=2024-10-15 17:06:40.481097
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 扫描目录: D:/面试\JAVA
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\1000道 互联网Java工程师面试题 485页_PDF.pdf
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 文件信息: 大小=4.3 MB, 修改时间=2020-09-10 17:17:48
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\B站 (免费在线学习猿地)(1).url
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 文件信息: 大小=175.0 B, 修改时间=2024-10-15 17:02:01.585843
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\B站 (免费在线学习猿地).url
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 文件信息: 大小=175.0 B, 修改时间=2024-10-12 10:38:51.332380
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\Dmz社区 - www.dmzshequ.com.url
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 文件信息: 大小=180.0 B, 修改时间=2024-10-15 17:02:01.584474
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\Java 工程师进阶知识完全扫盲.pdf
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 文件信息: 大小=10.7 MB, 修改时间=2024-10-15 17:02:03.410770
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\JavaGuide面试突击最新版.pdf
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 文件信息: 大小=23.3 MB, 修改时间=2024-10-15 17:02:05.874208
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\JavaGuide面试突击最新版夜间模式.pdf
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 文件信息: 大小=23.3 MB, 修改时间=2024-10-15 17:02:08.066139
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\Java基础知识篇.pdf
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 文件信息: 大小=2.3 MB, 修改时间=2024-10-15 17:02:07.928789
+2025-01-10 21:01:44,189 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\JAVA核心面试知识整理.pdf
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 文件信息: 大小=10.7 MB, 修改时间=2020-09-10 17:18:02
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\Java集合框架常见面试题.pdf
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 文件信息: 大小=1.6 MB, 修改时间=2024-10-15 17:02:08.294374
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\Java集合框架常见面试题夜间阅读版.pdf
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 文件信息: 大小=1.6 MB, 修改时间=2024-10-15 17:02:08.296342
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\RocketMQ 从入门到实战.pdf
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 文件信息: 大小=12.5 MB, 修改时间=2024-10-15 17:02:12.196815
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\RocketMQ源码解析.pdf
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 文件信息: 大小=5.0 MB, 修改时间=2024-10-15 17:02:14.343718
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\String常用方法.docx
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 文件信息: 大小=14.2 KB, 修改时间=2020-07-13 17:09:22
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\下载说明.txt
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 文件信息: 大小=211.0 B, 修改时间=2024-10-15 17:02:15.323299
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\低价云服务器-云产品.url
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 文件信息: 大小=179.0 B, 修改时间=2024-10-15 17:02:15.377806
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\分布式相关面试题汇总.pdf
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 文件信息: 大小=7.7 MB, 修改时间=2024-10-15 17:02:16.063742
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\图解HTTP.pdf
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 文件信息: 大小=15.6 MB, 修改时间=2024-10-15 17:02:18.583202
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\图解操作系统.pdf
+2025-01-10 21:01:44,190 - src.core.file_system - DEBUG - 文件信息: 大小=66.5 MB, 修改时间=2024-10-15 17:02:29.278013
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\图解网络.pdf
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 文件信息: 大小=30.8 MB, 修改时间=2024-10-15 17:02:23.106903
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\图解计算机基础.pdf
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 文件信息: 大小=23.7 MB, 修改时间=2024-10-15 17:02:28.155584
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\字节大佬总结的Java面试资料.pdf
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 文件信息: 大小=10.6 MB, 修改时间=2024-10-15 17:02:31.330455
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\技术面试常见智力题.pdf
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 文件信息: 大小=500.7 KB, 修改时间=2024-10-15 17:02:31.221080
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\海量IT学习资源免费下载(1).url
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 文件信息: 大小=179.0 B, 修改时间=2024-10-15 17:02:30.926304
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\海量IT学习资源免费下载.url
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 文件信息: 大小=179.0 B, 修改时间=2024-10-12 10:39:21.094192
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\消息队列常见面试题.pdf
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 文件信息: 大小=17.4 MB, 修改时间=2024-10-15 17:02:35.801542
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\消息队列常见面试题夜间版.pdf
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 文件信息: 大小=17.1 MB, 修改时间=2024-10-15 17:02:41.534338
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\网购通用优惠券(淘宝-京东-拼多多-等).url
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 文件信息: 大小=183.0 B, 修改时间=2024-10-15 17:02:42.757400
+2025-01-10 21:01:44,191 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\网赚天空.url
+2025-01-10 21:01:44,192 - src.core.file_system - DEBUG - 文件信息: 大小=182.0 B, 修改时间=2024-10-15 17:02:42.859833
+2025-01-10 21:01:44,192 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\设计模式面试题汇总.pdf
+2025-01-10 21:01:44,192 - src.core.file_system - DEBUG - 文件信息: 大小=1.9 MB, 修改时间=2024-10-15 17:02:43.151366
+2025-01-10 21:01:44,192 - src.core.file_system - DEBUG - 处理文件: D:/面试\JAVA\面试题.md
+2025-01-10 21:01:44,192 - src.core.file_system - DEBUG - 文件信息: 大小=105.6 KB, 修改时间=2020-09-10 16:43:02
+2025-01-10 21:01:44,192 - src.core.file_system - DEBUG - 文件信息收集完成，共 32 个文件
+2025-01-10 21:01:44,192 - src.core.file_filter - DEBUG - 当前允许的扩展名: ['.pdf', '.txt', '.gif', '.zip', '.jpeg', '.doc', '.png', '.mp3', '.mp4', '.rar', '.docx', '.jpg']
+2025-01-10 21:01:44,192 - src.core.file_filter - DEBUG - 检查文件 JAVA.zip - 扩展名: .zip - 允许
+2025-01-10 21:01:44,192 - src.core.file_filter - DEBUG - 检查文件 1000道 互联网Java工程师面试题 485页_PDF.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,192 - src.core.file_filter - DEBUG - 检查文件 B站 (免费在线学习猿地)(1).url - 扩展名: .url - 不允许
+2025-01-10 21:01:44,192 - src.core.file_filter - DEBUG - 检查文件 B站 (免费在线学习猿地).url - 扩展名: .url - 不允许
+2025-01-10 21:01:44,192 - src.core.file_filter - DEBUG - 检查文件 Dmz社区 - www.dmzshequ.com.url - 扩展名: .url - 不允许
+2025-01-10 21:01:44,192 - src.core.file_filter - DEBUG - 检查文件 Java 工程师进阶知识完全扫盲.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,192 - src.core.file_filter - DEBUG - 检查文件 JavaGuide面试突击最新版.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,192 - src.core.file_filter - DEBUG - 检查文件 JavaGuide面试突击最新版夜间模式.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,192 - src.core.file_filter - DEBUG - 检查文件 Java基础知识篇.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,192 - src.core.file_filter - DEBUG - 检查文件 JAVA核心面试知识整理.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,192 - src.core.file_filter - DEBUG - 检查文件 Java集合框架常见面试题.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,192 - src.core.file_filter - DEBUG - 检查文件 Java集合框架常见面试题夜间阅读版.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,192 - src.core.file_filter - DEBUG - 检查文件 RocketMQ 从入门到实战.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,192 - src.core.file_filter - DEBUG - 检查文件 RocketMQ源码解析.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,192 - src.core.file_filter - DEBUG - 检查文件 String常用方法.docx - 扩展名: .docx - 允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 下载说明.txt - 扩展名: .txt - 允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 低价云服务器-云产品.url - 扩展名: .url - 不允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 分布式相关面试题汇总.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 图解HTTP.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 图解操作系统.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 图解网络.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 图解计算机基础.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 字节大佬总结的Java面试资料.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 技术面试常见智力题.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 海量IT学习资源免费下载(1).url - 扩展名: .url - 不允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 海量IT学习资源免费下载.url - 扩展名: .url - 不允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 消息队列常见面试题.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 消息队列常见面试题夜间版.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 网购通用优惠券(淘宝-京东-拼多多-等).url - 扩展名: .url - 不允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 网赚天空.url - 扩展名: .url - 不允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 设计模式面试题汇总.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:01:44,193 - src.core.file_filter - DEBUG - 检查文件 面试题.md - 扩展名: .md - 不允许
+2025-01-10 21:01:44,199 - root - INFO - 函数 start_classification 执行完成 - 耗时: 0.01秒, 内存变化: +0.0MB
+2025-01-10 21:01:44,199 - root - DEBUG - 开始增强文件信息...
+2025-01-10 21:01:44,199 - src.core.ai_classifier - DEBUG - 开始增强文件信息，共 23 个文件
+2025-01-10 21:01:44,199 - src.core.ai_classifier - DEBUG - 文件 JAVA.zip 信息增强完成
+2025-01-10 21:01:44,199 - src.core.ai_classifier - DEBUG - 文件 1000道 互联网Java工程师面试题 485页_PDF.pdf 信息增强完成
+2025-01-10 21:01:44,199 - src.core.ai_classifier - DEBUG - 文件 Java 工程师进阶知识完全扫盲.pdf 信息增强完成
+2025-01-10 21:01:44,199 - src.core.ai_classifier - DEBUG - 文件 JavaGuide面试突击最新版.pdf 信息增强完成
+2025-01-10 21:01:44,199 - src.core.ai_classifier - DEBUG - 文件 JavaGuide面试突击最新版夜间模式.pdf 信息增强完成
+2025-01-10 21:01:44,199 - src.core.ai_classifier - DEBUG - 文件 Java基础知识篇.pdf 信息增强完成
+2025-01-10 21:01:44,199 - src.core.ai_classifier - DEBUG - 文件 JAVA核心面试知识整理.pdf 信息增强完成
+2025-01-10 21:01:44,199 - src.core.ai_classifier - DEBUG - 文件 Java集合框架常见面试题.pdf 信息增强完成
+2025-01-10 21:01:44,199 - src.core.ai_classifier - DEBUG - 文件 Java集合框架常见面试题夜间阅读版.pdf 信息增强完成
+2025-01-10 21:01:44,199 - src.core.ai_classifier - DEBUG - 文件 RocketMQ 从入门到实战.pdf 信息增强完成
+2025-01-10 21:01:44,199 - src.core.ai_classifier - DEBUG - 文件 RocketMQ源码解析.pdf 信息增强完成
+2025-01-10 21:01:44,199 - src.core.ai_classifier - DEBUG - 文件 String常用方法.docx 信息增强完成
+2025-01-10 21:01:44,204 - src.core.ai_classifier - DEBUG - 提取文件 D:/面试\JAVA\下载说明.txt 预览失败: 'utf-8' codec can't decode byte 0xb1 in position 0: invalid start byte
+2025-01-10 21:01:44,204 - src.core.ai_classifier - DEBUG - 文件 下载说明.txt 信息增强完成
+2025-01-10 21:01:44,204 - src.core.ai_classifier - DEBUG - 文件 分布式相关面试题汇总.pdf 信息增强完成
+2025-01-10 21:01:44,204 - src.core.ai_classifier - DEBUG - 文件 图解HTTP.pdf 信息增强完成
+2025-01-10 21:01:44,204 - src.core.ai_classifier - DEBUG - 文件 图解操作系统.pdf 信息增强完成
+2025-01-10 21:01:44,204 - src.core.ai_classifier - DEBUG - 文件 图解网络.pdf 信息增强完成
+2025-01-10 21:01:44,204 - src.core.ai_classifier - DEBUG - 文件 图解计算机基础.pdf 信息增强完成
+2025-01-10 21:01:44,204 - src.core.ai_classifier - DEBUG - 文件 字节大佬总结的Java面试资料.pdf 信息增强完成
+2025-01-10 21:01:44,204 - src.core.ai_classifier - DEBUG - 文件 技术面试常见智力题.pdf 信息增强完成
+2025-01-10 21:01:44,204 - src.core.ai_classifier - DEBUG - 文件 消息队列常见面试题.pdf 信息增强完成
+2025-01-10 21:01:44,204 - src.core.ai_classifier - DEBUG - 文件 消息队列常见面试题夜间版.pdf 信息增强完成
+2025-01-10 21:01:44,204 - src.core.ai_classifier - DEBUG - 文件 设计模式面试题汇总.pdf 信息增强完成
+2025-01-10 21:01:44,204 - src.core.ai_classifier - DEBUG - 文件信息增强完成
+2025-01-10 21:01:44,204 - root - DEBUG - 文件信息增强完成，共 23 个文件
+2025-01-10 21:01:44,205 - root - DEBUG - 发现已有分类目录: ['个人随笔', '学习资料', '学术研究', '技术文档', '未分类', '演讲材料', '设计文档', '项目文档']
+2025-01-10 21:01:44,205 - root - DEBUG - 开始处理第 1-10 批次文件
+2025-01-10 21:01:44,205 - root - DEBUG - 调用AI分类器...
+2025-01-10 21:01:44,205 - src.core.ai_classifier - DEBUG - 开始批量分类文件，共 10 个文件
+2025-01-10 21:01:44,205 - src.core.ai_classifier - DEBUG - 已有分类目录: ['个人随笔', '学习资料', '学术研究', '技术文档', '未分类', '演讲材料', '设计文档', '项目文档']
+2025-01-10 21:01:44,205 - src.core.ai_classifier - DEBUG - 正在初始化 DeepSeek 客户端...
+2025-01-10 21:01:44,205 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-01-10 21:01:44,206 - httpx - DEBUG - load_verify_locations cafile='D:\\Anaconda3\\envs\\package_machine\\lib\\site-packages\\certifi\\cacert.pem'
+2025-01-10 21:01:44,364 - src.core.ai_classifier - DEBUG - DeepSeek 客户端初始化完成
+2025-01-10 21:01:44,364 - src.core.ai_classifier - DEBUG - 开始生成分类提示...
+2025-01-10 21:01:44,364 - src.core.ai_classifier - DEBUG - 开始创建分类提示，文件数量：10，已有分类数量：8
+2025-01-10 21:01:44,364 - src.core.ai_classifier - DEBUG - 添加文件描述: JAVA.zip
+2025-01-10 21:01:44,364 - src.core.ai_classifier - DEBUG - 添加文件描述: 1000道 互联网Java工程师面试题 485页_PDF.pdf
+2025-01-10 21:01:44,364 - src.core.ai_classifier - DEBUG - 添加文件描述: Java 工程师进阶知识完全扫盲.pdf
+2025-01-10 21:01:44,364 - src.core.ai_classifier - DEBUG - 添加文件描述: JavaGuide面试突击最新版.pdf
+2025-01-10 21:01:44,364 - src.core.ai_classifier - DEBUG - 添加文件描述: JavaGuide面试突击最新版夜间模式.pdf
+2025-01-10 21:01:44,364 - src.core.ai_classifier - DEBUG - 添加文件描述: Java基础知识篇.pdf
+2025-01-10 21:01:44,364 - src.core.ai_classifier - DEBUG - 添加文件描述: JAVA核心面试知识整理.pdf
+2025-01-10 21:01:44,364 - src.core.ai_classifier - DEBUG - 添加文件描述: Java集合框架常见面试题.pdf
+2025-01-10 21:01:44,364 - src.core.ai_classifier - DEBUG - 添加文件描述: Java集合框架常见面试题夜间阅读版.pdf
+2025-01-10 21:01:44,365 - src.core.ai_classifier - DEBUG - 添加文件描述: RocketMQ 从入门到实战.pdf
+2025-01-10 21:01:44,365 - src.core.ai_classifier - DEBUG - 已有分类目录: ['个人随笔', '学习资料', '学术研究', '技术文档', '未分类', '演讲材料', '设计文档', '项目文档']
+2025-01-10 21:01:44,365 - src.core.ai_classifier - DEBUG - 分类提示创建完成，提示内容:
+请帮我将以下文件分类到合适的文件夹中。
+分类要求：
+1. 主要根据文件的实际内容和用途进行分类，而不是文件格式
+2. 相同格式的文件可能属于不同类别，需要深入分析文件名和内容含义
+3. 分类粒度要适中，既不要过于笼统也不要过于细致
+4. 文件夹名称使用有意义的中文词组
+5. 必须详细说明分类理由，重点解释基于内容的判断依据
+6. 优先复用已有的分类目录，但如果现有类别不合适，可以创建新的
+7. 对于内容相近的文件，应该分类到同一目录下
+
+返回格式要求：
+{
+    "example.docx": {
+        "target_folder": "产品文档",
+        "reason": "根据文件名和内容分析，这是一份产品相关的技术文档"
+    }
+}
+
+已有的分类目录：
+- 个人随笔
+- 学习资料
+- 学术研究
+- 技术文档
+- 未分类
+- 演讲材料
+- 设计文档
+- 项目文档
+
+待分类文件：
+文件名: JAVA.zip
+大小: 260.6 MB
+修改时间: 2024-10-15 17:06:40.481097
+---
+文件名: 1000道 互联网Java工程师面试题 485页_PDF.pdf
+大小: 4.3 MB
+修改时间: 2020-09-10 17:17:48
+---
+文件名: Java 工程师进阶知识完全扫盲.pdf
+大小: 10.7 MB
+修改时间: 2024-10-15 17:02:03.410770
+---
+文件名: JavaGuide面试突击最新版.pdf
+大小: 23.3 MB
+修改时间: 2024-10-15 17:02:05.874208
+---
+文件名: JavaGuide面试突击最新版夜间模式.pdf
+大小: 23.3 MB
+修改时间: 2024-10-15 17:02:08.066139
+---
+文件名: Java基础知识篇.pdf
+大小: 2.3 MB
+修改时间: 2024-10-15 17:02:07.928789
+---
+文件名: JAVA核心面试知识整理.pdf
+大小: 10.7 MB
+修改时间: 2020-09-10 17:18:02
+---
+文件名: Java集合框架常见面试题.pdf
+大小: 1.6 MB
+修改时间: 2024-10-15 17:02:08.294374
+---
+文件名: Java集合框架常见面试题夜间阅读版.pdf
+大小: 1.6 MB
+修改时间: 2024-10-15 17:02:08.296342
+---
+文件名: RocketMQ 从入门到实战.pdf
+大小: 12.5 MB
+修改时间: 2024-10-15 17:02:12.196815
+2025-01-10 21:01:44,365 - src.core.ai_classifier - DEBUG - 分类提示生成完成，提示内容:
+请帮我将以下文件分类到合适的文件夹中。
+分类要求：
+1. 主要根据文件的实际内容和用途进行分类，而不是文件格式
+2. 相同格式的文件可能属于不同类别，需要深入分析文件名和内容含义
+3. 分类粒度要适中，既不要过于笼统也不要过于细致
+4. 文件夹名称使用有意义的中文词组
+5. 必须详细说明分类理由，重点解释基于内容的判断依据
+6. 优先复用已有的分类目录，但如果现有类别不合适，可以创建新的
+7. 对于内容相近的文件，应该分类到同一目录下
+
+返回格式要求：
+{
+    "example.docx": {
+        "target_folder": "产品文档",
+        "reason": "根据文件名和内容分析，这是一份产品相关的技术文档"
+    }
+}
+
+已有的分类目录：
+- 个人随笔
+- 学习资料
+- 学术研究
+- 技术文档
+- 未分类
+- 演讲材料
+- 设计文档
+- 项目文档
+
+待分类文件：
+文件名: JAVA.zip
+大小: 260.6 MB
+修改时间: 2024-10-15 17:06:40.481097
+---
+文件名: 1000道 互联网Java工程师面试题 485页_PDF.pdf
+大小: 4.3 MB
+修改时间: 2020-09-10 17:17:48
+---
+文件名: Java 工程师进阶知识完全扫盲.pdf
+大小: 10.7 MB
+修改时间: 2024-10-15 17:02:03.410770
+---
+文件名: JavaGuide面试突击最新版.pdf
+大小: 23.3 MB
+修改时间: 2024-10-15 17:02:05.874208
+---
+文件名: JavaGuide面试突击最新版夜间模式.pdf
+大小: 23.3 MB
+修改时间: 2024-10-15 17:02:08.066139
+---
+文件名: Java基础知识篇.pdf
+大小: 2.3 MB
+修改时间: 2024-10-15 17:02:07.928789
+---
+文件名: JAVA核心面试知识整理.pdf
+大小: 10.7 MB
+修改时间: 2020-09-10 17:18:02
+---
+文件名: Java集合框架常见面试题.pdf
+大小: 1.6 MB
+修改时间: 2024-10-15 17:02:08.294374
+---
+文件名: Java集合框架常见面试题夜间阅读版.pdf
+大小: 1.6 MB
+修改时间: 2024-10-15 17:02:08.296342
+---
+文件名: RocketMQ 从入门到实战.pdf
+大小: 12.5 MB
+修改时间: 2024-10-15 17:02:12.196815
+2025-01-10 21:01:44,365 - src.core.ai_classifier - DEBUG - 开始调用 DeepSeek API...
+2025-01-10 21:01:44,365 - httpcore.connection - DEBUG - close.started
+2025-01-10 21:01:44,365 - httpcore.connection - DEBUG - close.complete
+2025-01-10 21:01:44,371 - openai._base_client - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'system', 'content': '你是一个专业的文件分类助手。请按照以下格式返回分类结果：\n{\n    "文件名.扩展名": {\n        "target_folder": "目标文件夹名称",\n        "reason": "分类理由"\n    }\n}\n注意：\n1. 返回格式必须是合法的JSON\n2. 所有文本必须使用双引号\n3. 优先使用已有的分类目录\n4. 给出合理的分类理由\n5. 使用文件名（不是完整路径）作为键'}, {'role': 'user', 'content': '请帮我将以下文件分类到合适的文件夹中。\n分类要求：\n1. 主要根据文件的实际内容和用途进行分类，而不是文件格式\n2. 相同格式的文件可能属于不同类别，需要深入分析文件名和内容含义\n3. 分类粒度要适中，既不要过于笼统也不要过于细致\n4. 文件夹名称使用有意义的中文词组\n5. 必须详细说明分类理由，重点解释基于内容的判断依据\n6. 优先复用已有的分类目录，但如果现有类别不合适，可以创建新的\n7. 对于内容相近的文件，应该分类到同一目录下\n\n返回格式要求：\n{\n    "example.docx": {\n        "target_folder": "产品文档",\n        "reason": "根据文件名和内容分析，这是一份产品相关的技术文档"\n    }\n}\n\n已有的分类目录：\n- 个人随笔\n- 学习资料\n- 学术研究\n- 技术文档\n- 未分类\n- 演讲材料\n- 设计文档\n- 项目文档\n\n待分类文件：\n文件名: JAVA.zip\n大小: 260.6 MB\n修改时间: 2024-10-15 17:06:40.481097\n---\n文件名: 1000道 互联网Java工程师面试题 485页_PDF.pdf\n大小: 4.3 MB\n修改时间: 2020-09-10 17:17:48\n---\n文件名: Java 工程师进阶知识完全扫盲.pdf\n大小: 10.7 MB\n修改时间: 2024-10-15 17:02:03.410770\n---\n文件名: JavaGuide面试突击最新版.pdf\n大小: 23.3 MB\n修改时间: 2024-10-15 17:02:05.874208\n---\n文件名: JavaGuide面试突击最新版夜间模式.pdf\n大小: 23.3 MB\n修改时间: 2024-10-15 17:02:08.066139\n---\n文件名: Java基础知识篇.pdf\n大小: 2.3 MB\n修改时间: 2024-10-15 17:02:07.928789\n---\n文件名: JAVA核心面试知识整理.pdf\n大小: 10.7 MB\n修改时间: 2020-09-10 17:18:02\n---\n文件名: Java集合框架常见面试题.pdf\n大小: 1.6 MB\n修改时间: 2024-10-15 17:02:08.294374\n---\n文件名: Java集合框架常见面试题夜间阅读版.pdf\n大小: 1.6 MB\n修改时间: 2024-10-15 17:02:08.296342\n---\n文件名: RocketMQ 从入门到实战.pdf\n大小: 12.5 MB\n修改时间: 2024-10-15 17:02:12.196815'}], 'model': 'deepseek-chat', 'temperature': 0.2}}
+2025-01-10 21:01:44,372 - openai._base_client - DEBUG - Sending HTTP Request: POST https://api.deepseek.com/chat/completions
+2025-01-10 21:01:44,372 - httpcore.connection - DEBUG - connect_tcp.started host='api.deepseek.com' port=443 local_address=None timeout=5.0 socket_options=None
+2025-01-10 21:01:44,387 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000024753588670>
+2025-01-10 21:01:44,387 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x00000247471F8F40> server_hostname='api.deepseek.com' timeout=5.0
+2025-01-10 21:01:44,403 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000024753588580>
+2025-01-10 21:01:44,403 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-01-10 21:01:44,403 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-01-10 21:01:44,403 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-01-10 21:01:44,404 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-01-10 21:01:44,404 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-01-10 21:01:44,498 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Server', b'nginx'), (b'Date', b'Fri, 10 Jan 2025 13:01:42 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Set-Cookie', b'HWWAFSESTIME=1736514100318; path=/'), (b'Set-Cookie', b'HWWAFSESID=4ec1c3c74e774175a61; path=/'), (b'vary', b'origin, access-control-request-method, access-control-request-headers'), (b'access-control-allow-credentials', b'true'), (b'x-ds-trace-id', b'be2b6b9f7505ae406d9d4b7b2ce5661d'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'X-Content-Type-Options', b'nosniff')])
+2025-01-10 21:01:44,499 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-01-10 21:01:44,503 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-01-10 21:01:45,324 - src.utils.performance - INFO - 性能监控 - CPU使用率: 1.6%, 物理内存: 172.6MB, 内存使用率: 1.1%
+2025-01-10 21:01:49,299 - src.utils.performance - INFO - 性能监控 - CPU使用率: 1.2%, 物理内存: 172.6MB, 内存使用率: 1.1%
+2025-01-10 21:01:55,979 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-01-10 21:01:55,979 - httpcore.http11 - DEBUG - response_closed.started
+2025-01-10 21:01:55,979 - httpcore.http11 - DEBUG - response_closed.complete
+2025-01-10 21:01:55,979 - openai._base_client - DEBUG - HTTP Response: POST https://api.deepseek.com/chat/completions "200 OK" Headers([('server', 'nginx'), ('date', 'Fri, 10 Jan 2025 13:01:42 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('set-cookie', 'HWWAFSESTIME=1736514100318; path=/'), ('set-cookie', 'HWWAFSESID=4ec1c3c74e774175a61; path=/'), ('vary', 'origin, access-control-request-method, access-control-request-headers'), ('access-control-allow-credentials', 'true'), ('x-ds-trace-id', 'be2b6b9f7505ae406d9d4b7b2ce5661d'), ('strict-transport-security', 'max-age=31536000; includeSubDomains; preload'), ('x-content-type-options', 'nosniff')])
+2025-01-10 21:01:55,979 - openai._base_client - DEBUG - request_id: None
+2025-01-10 21:01:55,980 - src.core.ai_classifier - DEBUG - DeepSeek API 调用完成
+2025-01-10 21:01:55,980 - src.core.ai_classifier - DEBUG - AI原始响应:
+```json
+{
+    "JAVA.zip": {
+        "target_folder": "学习资料",
+        "reason": "根据文件名和大小分析，这是一个包含Java相关学习资料的压缩包，适合归类到学习资料文件夹"
+    },
+    "1000道 互联网Java工程师面试题 485页_PDF.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是一份Java工程师面试题的集合，适合归类到学习资料文件夹"
+    },
+    "Java 工程师进阶知识完全扫盲.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是一份Java工程师进阶知识的扫盲文档，适合归类到学习资料文件夹"
+    },
+    "JavaGuide面试突击最新版.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是一份Java面试突击的指南，适合归类到学习资料文件夹"
+    },
+    "JavaGuide面试突击最新版夜间模式.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是JavaGuide面试突击最新版的夜间模式版本，适合归类到学习资料文件夹"
+    },
+    "Java基础知识篇.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是一份Java基础知识的文档，适合归类到学习资料文件夹"
+    },
+    "JAVA核心面试知识整理.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是一份Java核心面试知识的整理文档，适合归类到学习资料文件夹"
+    },
+    "Java集合框架常见面试题.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是一份Java集合框架常见面试题的文档，适合归类到学习资料文件夹"
+    },
+    "Java集合框架常见面试题夜间阅读版.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是Java集合框架常见面试题的夜间阅读版本，适合归类到学习资料文件夹"
+    },
+    "RocketMQ 从入门到实战.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是一份关于RocketMQ从入门到实战的学习资料，适合归类到学习资料文件夹"
+    }
+}
+```
+2025-01-10 21:01:55,980 - src.core.ai_classifier - DEBUG - 提取的JSON文本:
+{
+    "JAVA.zip": {
+        "target_folder": "学习资料",
+        "reason": "根据文件名和大小分析，这是一个包含Java相关学习资料的压缩包，适合归类到学习资料文件夹"
+    },
+    "1000道 互联网Java工程师面试题 485页_PDF.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是一份Java工程师面试题的集合，适合归类到学习资料文件夹"
+    },
+    "Java 工程师进阶知识完全扫盲.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是一份Java工程师进阶知识的扫盲文档，适合归类到学习资料文件夹"
+    },
+    "JavaGuide面试突击最新版.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是一份Java面试突击的指南，适合归类到学习资料文件夹"
+    },
+    "JavaGuide面试突击最新版夜间模式.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是JavaGuide面试突击最新版的夜间模式版本，适合归类到学习资料文件夹"
+    },
+    "Java基础知识篇.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是一份Java基础知识的文档，适合归类到学习资料文件夹"
+    },
+    "JAVA核心面试知识整理.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是一份Java核心面试知识的整理文档，适合归类到学习资料文件夹"
+    },
+    "Java集合框架常见面试题.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是一份Java集合框架常见面试题的文档，适合归类到学习资料文件夹"
+    },
+    "Java集合框架常见面试题夜间阅读版.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是Java集合框架常见面试题的夜间阅读版本，适合归类到学习资料文件夹"
+    },
+    "RocketMQ 从入门到实战.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名和内容表明这是一份关于RocketMQ从入门到实战的学习资料，适合归类到学习资料文件夹"
+    }
+}
+2025-01-10 21:01:55,982 - src.core.ai_classifier - DEBUG - AI响应解析完成，获得 10 个分类结果
+2025-01-10 21:01:55,982 - src.core.ai_classifier - DEBUG - 文件 JAVA.zip 被分类到 学习资料
+2025-01-10 21:01:55,982 - src.core.ai_classifier - DEBUG - 文件 1000道 互联网Java工程师面试题 485页_PDF.pdf 被分类到 学习资料
+2025-01-10 21:01:55,982 - src.core.ai_classifier - DEBUG - 文件 Java 工程师进阶知识完全扫盲.pdf 被分类到 学习资料
+2025-01-10 21:01:55,982 - src.core.ai_classifier - DEBUG - 文件 JavaGuide面试突击最新版.pdf 被分类到 学习资料
+2025-01-10 21:01:55,982 - src.core.ai_classifier - DEBUG - 文件 JavaGuide面试突击最新版夜间模式.pdf 被分类到 学习资料
+2025-01-10 21:01:55,982 - src.core.ai_classifier - DEBUG - 文件 Java基础知识篇.pdf 被分类到 学习资料
+2025-01-10 21:01:55,982 - src.core.ai_classifier - DEBUG - 文件 JAVA核心面试知识整理.pdf 被分类到 学习资料
+2025-01-10 21:01:55,982 - src.core.ai_classifier - DEBUG - 文件 Java集合框架常见面试题.pdf 被分类到 学习资料
+2025-01-10 21:01:55,982 - src.core.ai_classifier - DEBUG - 文件 Java集合框架常见面试题夜间阅读版.pdf 被分类到 学习资料
+2025-01-10 21:01:55,982 - src.core.ai_classifier - DEBUG - 文件 RocketMQ 从入门到实战.pdf 被分类到 学习资料
+2025-01-10 21:01:55,982 - src.core.ai_classifier - DEBUG - 分类完成统计:
+2025-01-10 21:01:55,982 - src.core.ai_classifier - DEBUG - - 复用已有分类: 1 个 ['学习资料']
+2025-01-10 21:01:55,982 - src.core.ai_classifier - DEBUG - - 新建分类: 0 个 []
+2025-01-10 21:01:55,982 - root - DEBUG - 批次处理完成，获得 10 个结果
+2025-01-10 21:01:55,982 - root - DEBUG - 当前进度: 43%
+2025-01-10 21:01:55,982 - root - DEBUG - 开始处理第 11-20 批次文件
+2025-01-10 21:01:55,982 - root - DEBUG - 调用AI分类器...
+2025-01-10 21:01:55,983 - src.core.ai_classifier - DEBUG - 开始批量分类文件，共 10 个文件
+2025-01-10 21:01:55,983 - src.core.ai_classifier - DEBUG - 已有分类目录: ['个人随笔', '学习资料', '学术研究', '技术文档', '未分类', '演讲材料', '设计文档', '项目文档']
+2025-01-10 21:01:55,983 - src.core.ai_classifier - DEBUG - 正在初始化 DeepSeek 客户端...
+2025-01-10 21:01:55,983 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-01-10 21:01:55,984 - httpx - DEBUG - load_verify_locations cafile='D:\\Anaconda3\\envs\\package_machine\\lib\\site-packages\\certifi\\cacert.pem'
+2025-01-10 21:01:56,137 - src.core.ai_classifier - DEBUG - DeepSeek 客户端初始化完成
+2025-01-10 21:01:56,137 - src.core.ai_classifier - DEBUG - 开始生成分类提示...
+2025-01-10 21:01:56,137 - src.core.ai_classifier - DEBUG - 开始创建分类提示，文件数量：10，已有分类数量：8
+2025-01-10 21:01:56,137 - src.core.ai_classifier - DEBUG - 添加文件描述: RocketMQ源码解析.pdf
+2025-01-10 21:01:56,137 - src.core.ai_classifier - DEBUG - 添加文件描述: String常用方法.docx
+2025-01-10 21:01:56,137 - src.core.ai_classifier - DEBUG - 添加文件描述: 下载说明.txt
+2025-01-10 21:01:56,137 - src.core.ai_classifier - DEBUG - 添加文件描述: 分布式相关面试题汇总.pdf
+2025-01-10 21:01:56,137 - src.core.ai_classifier - DEBUG - 添加文件描述: 图解HTTP.pdf
+2025-01-10 21:01:56,137 - src.core.ai_classifier - DEBUG - 添加文件描述: 图解操作系统.pdf
+2025-01-10 21:01:56,137 - src.core.ai_classifier - DEBUG - 添加文件描述: 图解网络.pdf
+2025-01-10 21:01:56,137 - src.core.ai_classifier - DEBUG - 添加文件描述: 图解计算机基础.pdf
+2025-01-10 21:01:56,137 - src.core.ai_classifier - DEBUG - 添加文件描述: 字节大佬总结的Java面试资料.pdf
+2025-01-10 21:01:56,137 - src.core.ai_classifier - DEBUG - 添加文件描述: 技术面试常见智力题.pdf
+2025-01-10 21:01:56,137 - src.core.ai_classifier - DEBUG - 已有分类目录: ['个人随笔', '学习资料', '学术研究', '技术文档', '未分类', '演讲材料', '设计文档', '项目文档']
+2025-01-10 21:01:56,137 - src.core.ai_classifier - DEBUG - 分类提示创建完成，提示内容:
+请帮我将以下文件分类到合适的文件夹中。
+分类要求：
+1. 主要根据文件的实际内容和用途进行分类，而不是文件格式
+2. 相同格式的文件可能属于不同类别，需要深入分析文件名和内容含义
+3. 分类粒度要适中，既不要过于笼统也不要过于细致
+4. 文件夹名称使用有意义的中文词组
+5. 必须详细说明分类理由，重点解释基于内容的判断依据
+6. 优先复用已有的分类目录，但如果现有类别不合适，可以创建新的
+7. 对于内容相近的文件，应该分类到同一目录下
+
+返回格式要求：
+{
+    "example.docx": {
+        "target_folder": "产品文档",
+        "reason": "根据文件名和内容分析，这是一份产品相关的技术文档"
+    }
+}
+
+已有的分类目录：
+- 个人随笔
+- 学习资料
+- 学术研究
+- 技术文档
+- 未分类
+- 演讲材料
+- 设计文档
+- 项目文档
+
+待分类文件：
+文件名: RocketMQ源码解析.pdf
+大小: 5.0 MB
+修改时间: 2024-10-15 17:02:14.343718
+---
+文件名: String常用方法.docx
+大小: 14.2 KB
+修改时间: 2020-07-13 17:09:22
+---
+文件名: 下载说明.txt
+大小: 211.0 B
+修改时间: 2024-10-15 17:02:15.323299
+---
+文件名: 分布式相关面试题汇总.pdf
+大小: 7.7 MB
+修改时间: 2024-10-15 17:02:16.063742
+---
+文件名: 图解HTTP.pdf
+大小: 15.6 MB
+修改时间: 2024-10-15 17:02:18.583202
+---
+文件名: 图解操作系统.pdf
+大小: 66.5 MB
+修改时间: 2024-10-15 17:02:29.278013
+---
+文件名: 图解网络.pdf
+大小: 30.8 MB
+修改时间: 2024-10-15 17:02:23.106903
+---
+文件名: 图解计算机基础.pdf
+大小: 23.7 MB
+修改时间: 2024-10-15 17:02:28.155584
+---
+文件名: 字节大佬总结的Java面试资料.pdf
+大小: 10.6 MB
+修改时间: 2024-10-15 17:02:31.330455
+---
+文件名: 技术面试常见智力题.pdf
+大小: 500.7 KB
+修改时间: 2024-10-15 17:02:31.221080
+2025-01-10 21:01:56,137 - src.core.ai_classifier - DEBUG - 分类提示生成完成，提示内容:
+请帮我将以下文件分类到合适的文件夹中。
+分类要求：
+1. 主要根据文件的实际内容和用途进行分类，而不是文件格式
+2. 相同格式的文件可能属于不同类别，需要深入分析文件名和内容含义
+3. 分类粒度要适中，既不要过于笼统也不要过于细致
+4. 文件夹名称使用有意义的中文词组
+5. 必须详细说明分类理由，重点解释基于内容的判断依据
+6. 优先复用已有的分类目录，但如果现有类别不合适，可以创建新的
+7. 对于内容相近的文件，应该分类到同一目录下
+
+返回格式要求：
+{
+    "example.docx": {
+        "target_folder": "产品文档",
+        "reason": "根据文件名和内容分析，这是一份产品相关的技术文档"
+    }
+}
+
+已有的分类目录：
+- 个人随笔
+- 学习资料
+- 学术研究
+- 技术文档
+- 未分类
+- 演讲材料
+- 设计文档
+- 项目文档
+
+待分类文件：
+文件名: RocketMQ源码解析.pdf
+大小: 5.0 MB
+修改时间: 2024-10-15 17:02:14.343718
+---
+文件名: String常用方法.docx
+大小: 14.2 KB
+修改时间: 2020-07-13 17:09:22
+---
+文件名: 下载说明.txt
+大小: 211.0 B
+修改时间: 2024-10-15 17:02:15.323299
+---
+文件名: 分布式相关面试题汇总.pdf
+大小: 7.7 MB
+修改时间: 2024-10-15 17:02:16.063742
+---
+文件名: 图解HTTP.pdf
+大小: 15.6 MB
+修改时间: 2024-10-15 17:02:18.583202
+---
+文件名: 图解操作系统.pdf
+大小: 66.5 MB
+修改时间: 2024-10-15 17:02:29.278013
+---
+文件名: 图解网络.pdf
+大小: 30.8 MB
+修改时间: 2024-10-15 17:02:23.106903
+---
+文件名: 图解计算机基础.pdf
+大小: 23.7 MB
+修改时间: 2024-10-15 17:02:28.155584
+---
+文件名: 字节大佬总结的Java面试资料.pdf
+大小: 10.6 MB
+修改时间: 2024-10-15 17:02:31.330455
+---
+文件名: 技术面试常见智力题.pdf
+大小: 500.7 KB
+修改时间: 2024-10-15 17:02:31.221080
+2025-01-10 21:01:56,140 - src.core.ai_classifier - DEBUG - 开始调用 DeepSeek API...
+2025-01-10 21:01:56,144 - openai._base_client - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'system', 'content': '你是一个专业的文件分类助手。请按照以下格式返回分类结果：\n{\n    "文件名.扩展名": {\n        "target_folder": "目标文件夹名称",\n        "reason": "分类理由"\n    }\n}\n注意：\n1. 返回格式必须是合法的JSON\n2. 所有文本必须使用双引号\n3. 优先使用已有的分类目录\n4. 给出合理的分类理由\n5. 使用文件名（不是完整路径）作为键'}, {'role': 'user', 'content': '请帮我将以下文件分类到合适的文件夹中。\n分类要求：\n1. 主要根据文件的实际内容和用途进行分类，而不是文件格式\n2. 相同格式的文件可能属于不同类别，需要深入分析文件名和内容含义\n3. 分类粒度要适中，既不要过于笼统也不要过于细致\n4. 文件夹名称使用有意义的中文词组\n5. 必须详细说明分类理由，重点解释基于内容的判断依据\n6. 优先复用已有的分类目录，但如果现有类别不合适，可以创建新的\n7. 对于内容相近的文件，应该分类到同一目录下\n\n返回格式要求：\n{\n    "example.docx": {\n        "target_folder": "产品文档",\n        "reason": "根据文件名和内容分析，这是一份产品相关的技术文档"\n    }\n}\n\n已有的分类目录：\n- 个人随笔\n- 学习资料\n- 学术研究\n- 技术文档\n- 未分类\n- 演讲材料\n- 设计文档\n- 项目文档\n\n待分类文件：\n文件名: RocketMQ源码解析.pdf\n大小: 5.0 MB\n修改时间: 2024-10-15 17:02:14.343718\n---\n文件名: String常用方法.docx\n大小: 14.2 KB\n修改时间: 2020-07-13 17:09:22\n---\n文件名: 下载说明.txt\n大小: 211.0 B\n修改时间: 2024-10-15 17:02:15.323299\n---\n文件名: 分布式相关面试题汇总.pdf\n大小: 7.7 MB\n修改时间: 2024-10-15 17:02:16.063742\n---\n文件名: 图解HTTP.pdf\n大小: 15.6 MB\n修改时间: 2024-10-15 17:02:18.583202\n---\n文件名: 图解操作系统.pdf\n大小: 66.5 MB\n修改时间: 2024-10-15 17:02:29.278013\n---\n文件名: 图解网络.pdf\n大小: 30.8 MB\n修改时间: 2024-10-15 17:02:23.106903\n---\n文件名: 图解计算机基础.pdf\n大小: 23.7 MB\n修改时间: 2024-10-15 17:02:28.155584\n---\n文件名: 字节大佬总结的Java面试资料.pdf\n大小: 10.6 MB\n修改时间: 2024-10-15 17:02:31.330455\n---\n文件名: 技术面试常见智力题.pdf\n大小: 500.7 KB\n修改时间: 2024-10-15 17:02:31.221080'}], 'model': 'deepseek-chat', 'temperature': 0.2}}
+2025-01-10 21:01:56,144 - openai._base_client - DEBUG - Sending HTTP Request: POST https://api.deepseek.com/chat/completions
+2025-01-10 21:01:56,144 - httpcore.connection - DEBUG - connect_tcp.started host='api.deepseek.com' port=443 local_address=None timeout=5.0 socket_options=None
+2025-01-10 21:01:56,160 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000024753625F10>
+2025-01-10 21:01:56,160 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x00000247471F87C0> server_hostname='api.deepseek.com' timeout=5.0
+2025-01-10 21:01:56,174 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000024753625E80>
+2025-01-10 21:01:56,175 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-01-10 21:01:56,175 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-01-10 21:01:56,175 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-01-10 21:01:56,175 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-01-10 21:01:56,175 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-01-10 21:01:56,237 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Server', b'nginx'), (b'Date', b'Fri, 10 Jan 2025 13:01:54 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Set-Cookie', b'HWWAFSESID=2c94f50b7a7dec36de8; path=/'), (b'Set-Cookie', b'HWWAFSESTIME=1736514111253; path=/'), (b'vary', b'origin, access-control-request-method, access-control-request-headers'), (b'access-control-allow-credentials', b'true'), (b'x-ds-trace-id', b'cdb805a728ccb9977391d9876aaac67f'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'X-Content-Type-Options', b'nosniff')])
+2025-01-10 21:01:56,238 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-01-10 21:01:56,238 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-01-10 21:01:56,585 - src.utils.performance - INFO - 性能监控 - CPU使用率: 2.1%, 物理内存: 172.6MB, 内存使用率: 1.1%
+2025-01-10 21:01:59,661 - src.utils.performance - INFO - 性能监控 - CPU使用率: 0.0%, 物理内存: 172.6MB, 内存使用率: 1.1%
+2025-01-10 21:02:00,172 - src.utils.performance - INFO - 性能监控 - CPU使用率: 0.0%, 物理内存: 172.6MB, 内存使用率: 1.1%
+2025-01-10 21:02:06,238 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-01-10 21:02:06,238 - httpcore.http11 - DEBUG - response_closed.started
+2025-01-10 21:02:06,238 - httpcore.http11 - DEBUG - response_closed.complete
+2025-01-10 21:02:06,238 - openai._base_client - DEBUG - HTTP Response: POST https://api.deepseek.com/chat/completions "200 OK" Headers([('server', 'nginx'), ('date', 'Fri, 10 Jan 2025 13:01:54 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('set-cookie', 'HWWAFSESID=2c94f50b7a7dec36de8; path=/'), ('set-cookie', 'HWWAFSESTIME=1736514111253; path=/'), ('vary', 'origin, access-control-request-method, access-control-request-headers'), ('access-control-allow-credentials', 'true'), ('x-ds-trace-id', 'cdb805a728ccb9977391d9876aaac67f'), ('strict-transport-security', 'max-age=31536000; includeSubDomains; preload'), ('x-content-type-options', 'nosniff')])
+2025-01-10 21:02:06,238 - openai._base_client - DEBUG - request_id: None
+2025-01-10 21:02:06,239 - src.core.ai_classifier - DEBUG - DeepSeek API 调用完成
+2025-01-10 21:02:06,239 - src.core.ai_classifier - DEBUG - AI原始响应:
+```json
+{
+    "RocketMQ源码解析.pdf": {
+        "target_folder": "技术文档",
+        "reason": "该文件内容涉及RocketMQ的源码解析，属于技术性较强的文档，适合归类到技术文档"
+    },
+    "String常用方法.docx": {
+        "target_folder": "学习资料",
+        "reason": "该文件内容涉及Java中String类的常用方法，适合作为学习资料"
+    },
+    "下载说明.txt": {
+        "target_folder": "未分类",
+        "reason": "该文件内容为下载说明，信息较为简单，暂时归类到未分类"
+    },
+    "分布式相关面试题汇总.pdf": {
+        "target_folder": "学习资料",
+        "reason": "该文件内容为分布式相关的面试题汇总，适合作为学习资料"
+    },
+    "图解HTTP.pdf": {
+        "target_folder": "学习资料",
+        "reason": "该文件内容为HTTP协议的图解说明，适合作为学习资料"
+    },
+    "图解操作系统.pdf": {
+        "target_folder": "学习资料",
+        "reason": "该文件内容为操作系统的图解说明，适合作为学习资料"
+    },
+    "图解网络.pdf": {
+        "target_folder": "学习资料",
+        "reason": "该文件内容为网络知识的图解说明，适合作为学习资料"
+    },
+    "图解计算机基础.pdf": {
+        "target_folder": "学习资料",
+        "reason": "该文件内容为计算机基础知识的图解说明，适合作为学习资料"
+    },
+    "字节大佬总结的Java面试资料.pdf": {
+        "target_folder": "学习资料",
+        "reason": "该文件内容为Java面试资料的总结，适合作为学习资料"
+    },
+    "技术面试常见智力题.pdf": {
+        "target_folder": "学习资料",
+        "reason": "该文件内容为技术面试中常见的智力题，适合作为学习资料"
+    }
+}
+```
+2025-01-10 21:02:06,239 - src.core.ai_classifier - DEBUG - 提取的JSON文本:
+{
+    "RocketMQ源码解析.pdf": {
+        "target_folder": "技术文档",
+        "reason": "该文件内容涉及RocketMQ的源码解析，属于技术性较强的文档，适合归类到技术文档"
+    },
+    "String常用方法.docx": {
+        "target_folder": "学习资料",
+        "reason": "该文件内容涉及Java中String类的常用方法，适合作为学习资料"
+    },
+    "下载说明.txt": {
+        "target_folder": "未分类",
+        "reason": "该文件内容为下载说明，信息较为简单，暂时归类到未分类"
+    },
+    "分布式相关面试题汇总.pdf": {
+        "target_folder": "学习资料",
+        "reason": "该文件内容为分布式相关的面试题汇总，适合作为学习资料"
+    },
+    "图解HTTP.pdf": {
+        "target_folder": "学习资料",
+        "reason": "该文件内容为HTTP协议的图解说明，适合作为学习资料"
+    },
+    "图解操作系统.pdf": {
+        "target_folder": "学习资料",
+        "reason": "该文件内容为操作系统的图解说明，适合作为学习资料"
+    },
+    "图解网络.pdf": {
+        "target_folder": "学习资料",
+        "reason": "该文件内容为网络知识的图解说明，适合作为学习资料"
+    },
+    "图解计算机基础.pdf": {
+        "target_folder": "学习资料",
+        "reason": "该文件内容为计算机基础知识的图解说明，适合作为学习资料"
+    },
+    "字节大佬总结的Java面试资料.pdf": {
+        "target_folder": "学习资料",
+        "reason": "该文件内容为Java面试资料的总结，适合作为学习资料"
+    },
+    "技术面试常见智力题.pdf": {
+        "target_folder": "学习资料",
+        "reason": "该文件内容为技术面试中常见的智力题，适合作为学习资料"
+    }
+}
+2025-01-10 21:02:06,242 - src.core.ai_classifier - DEBUG - AI响应解析完成，获得 10 个分类结果
+2025-01-10 21:02:06,242 - src.core.ai_classifier - DEBUG - 文件 RocketMQ源码解析.pdf 被分类到 技术文档
+2025-01-10 21:02:06,242 - src.core.ai_classifier - DEBUG - 文件 String常用方法.docx 被分类到 学习资料
+2025-01-10 21:02:06,242 - src.core.ai_classifier - DEBUG - 文件 下载说明.txt 被分类到 未分类
+2025-01-10 21:02:06,242 - src.core.ai_classifier - DEBUG - 文件 分布式相关面试题汇总.pdf 被分类到 学习资料
+2025-01-10 21:02:06,242 - src.core.ai_classifier - DEBUG - 文件 图解HTTP.pdf 被分类到 学习资料
+2025-01-10 21:02:06,242 - src.core.ai_classifier - DEBUG - 文件 图解操作系统.pdf 被分类到 学习资料
+2025-01-10 21:02:06,242 - src.core.ai_classifier - DEBUG - 文件 图解网络.pdf 被分类到 学习资料
+2025-01-10 21:02:06,242 - src.core.ai_classifier - DEBUG - 文件 图解计算机基础.pdf 被分类到 学习资料
+2025-01-10 21:02:06,242 - src.core.ai_classifier - DEBUG - 文件 字节大佬总结的Java面试资料.pdf 被分类到 学习资料
+2025-01-10 21:02:06,242 - src.core.ai_classifier - DEBUG - 文件 技术面试常见智力题.pdf 被分类到 学习资料
+2025-01-10 21:02:06,242 - src.core.ai_classifier - DEBUG - 分类完成统计:
+2025-01-10 21:02:06,242 - src.core.ai_classifier - DEBUG - - 复用已有分类: 3 个 ['学习资料', '技术文档', '未分类']
+2025-01-10 21:02:06,242 - src.core.ai_classifier - DEBUG - - 新建分类: 0 个 []
+2025-01-10 21:02:06,242 - root - DEBUG - 批次处理完成，获得 10 个结果
+2025-01-10 21:02:06,242 - root - DEBUG - 当前进度: 86%
+2025-01-10 21:02:06,242 - root - DEBUG - 开始处理第 21-23 批次文件
+2025-01-10 21:02:06,242 - root - DEBUG - 调用AI分类器...
+2025-01-10 21:02:06,243 - src.core.ai_classifier - DEBUG - 开始批量分类文件，共 3 个文件
+2025-01-10 21:02:06,243 - src.core.ai_classifier - DEBUG - 已有分类目录: ['个人随笔', '学习资料', '学术研究', '技术文档', '未分类', '演讲材料', '设计文档', '项目文档']
+2025-01-10 21:02:06,243 - src.core.ai_classifier - DEBUG - 正在初始化 DeepSeek 客户端...
+2025-01-10 21:02:06,243 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-01-10 21:02:06,243 - httpx - DEBUG - load_verify_locations cafile='D:\\Anaconda3\\envs\\package_machine\\lib\\site-packages\\certifi\\cacert.pem'
+2025-01-10 21:02:06,398 - src.core.ai_classifier - DEBUG - DeepSeek 客户端初始化完成
+2025-01-10 21:02:06,398 - src.core.ai_classifier - DEBUG - 开始生成分类提示...
+2025-01-10 21:02:06,398 - src.core.ai_classifier - DEBUG - 开始创建分类提示，文件数量：3，已有分类数量：8
+2025-01-10 21:02:06,398 - src.core.ai_classifier - DEBUG - 添加文件描述: 消息队列常见面试题.pdf
+2025-01-10 21:02:06,398 - src.core.ai_classifier - DEBUG - 添加文件描述: 消息队列常见面试题夜间版.pdf
+2025-01-10 21:02:06,398 - src.core.ai_classifier - DEBUG - 添加文件描述: 设计模式面试题汇总.pdf
+2025-01-10 21:02:06,398 - src.core.ai_classifier - DEBUG - 已有分类目录: ['个人随笔', '学习资料', '学术研究', '技术文档', '未分类', '演讲材料', '设计文档', '项目文档']
+2025-01-10 21:02:06,398 - src.core.ai_classifier - DEBUG - 分类提示创建完成，提示内容:
+请帮我将以下文件分类到合适的文件夹中。
+分类要求：
+1. 主要根据文件的实际内容和用途进行分类，而不是文件格式
+2. 相同格式的文件可能属于不同类别，需要深入分析文件名和内容含义
+3. 分类粒度要适中，既不要过于笼统也不要过于细致
+4. 文件夹名称使用有意义的中文词组
+5. 必须详细说明分类理由，重点解释基于内容的判断依据
+6. 优先复用已有的分类目录，但如果现有类别不合适，可以创建新的
+7. 对于内容相近的文件，应该分类到同一目录下
+
+返回格式要求：
+{
+    "example.docx": {
+        "target_folder": "产品文档",
+        "reason": "根据文件名和内容分析，这是一份产品相关的技术文档"
+    }
+}
+
+已有的分类目录：
+- 个人随笔
+- 学习资料
+- 学术研究
+- 技术文档
+- 未分类
+- 演讲材料
+- 设计文档
+- 项目文档
+
+待分类文件：
+文件名: 消息队列常见面试题.pdf
+大小: 17.4 MB
+修改时间: 2024-10-15 17:02:35.801542
+---
+文件名: 消息队列常见面试题夜间版.pdf
+大小: 17.1 MB
+修改时间: 2024-10-15 17:02:41.534338
+---
+文件名: 设计模式面试题汇总.pdf
+大小: 1.9 MB
+修改时间: 2024-10-15 17:02:43.151366
+2025-01-10 21:02:06,398 - src.core.ai_classifier - DEBUG - 分类提示生成完成，提示内容:
+请帮我将以下文件分类到合适的文件夹中。
+分类要求：
+1. 主要根据文件的实际内容和用途进行分类，而不是文件格式
+2. 相同格式的文件可能属于不同类别，需要深入分析文件名和内容含义
+3. 分类粒度要适中，既不要过于笼统也不要过于细致
+4. 文件夹名称使用有意义的中文词组
+5. 必须详细说明分类理由，重点解释基于内容的判断依据
+6. 优先复用已有的分类目录，但如果现有类别不合适，可以创建新的
+7. 对于内容相近的文件，应该分类到同一目录下
+
+返回格式要求：
+{
+    "example.docx": {
+        "target_folder": "产品文档",
+        "reason": "根据文件名和内容分析，这是一份产品相关的技术文档"
+    }
+}
+
+已有的分类目录：
+- 个人随笔
+- 学习资料
+- 学术研究
+- 技术文档
+- 未分类
+- 演讲材料
+- 设计文档
+- 项目文档
+
+待分类文件：
+文件名: 消息队列常见面试题.pdf
+大小: 17.4 MB
+修改时间: 2024-10-15 17:02:35.801542
+---
+文件名: 消息队列常见面试题夜间版.pdf
+大小: 17.1 MB
+修改时间: 2024-10-15 17:02:41.534338
+---
+文件名: 设计模式面试题汇总.pdf
+大小: 1.9 MB
+修改时间: 2024-10-15 17:02:43.151366
+2025-01-10 21:02:06,398 - src.core.ai_classifier - DEBUG - 开始调用 DeepSeek API...
+2025-01-10 21:02:06,403 - openai._base_client - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'system', 'content': '你是一个专业的文件分类助手。请按照以下格式返回分类结果：\n{\n    "文件名.扩展名": {\n        "target_folder": "目标文件夹名称",\n        "reason": "分类理由"\n    }\n}\n注意：\n1. 返回格式必须是合法的JSON\n2. 所有文本必须使用双引号\n3. 优先使用已有的分类目录\n4. 给出合理的分类理由\n5. 使用文件名（不是完整路径）作为键'}, {'role': 'user', 'content': '请帮我将以下文件分类到合适的文件夹中。\n分类要求：\n1. 主要根据文件的实际内容和用途进行分类，而不是文件格式\n2. 相同格式的文件可能属于不同类别，需要深入分析文件名和内容含义\n3. 分类粒度要适中，既不要过于笼统也不要过于细致\n4. 文件夹名称使用有意义的中文词组\n5. 必须详细说明分类理由，重点解释基于内容的判断依据\n6. 优先复用已有的分类目录，但如果现有类别不合适，可以创建新的\n7. 对于内容相近的文件，应该分类到同一目录下\n\n返回格式要求：\n{\n    "example.docx": {\n        "target_folder": "产品文档",\n        "reason": "根据文件名和内容分析，这是一份产品相关的技术文档"\n    }\n}\n\n已有的分类目录：\n- 个人随笔\n- 学习资料\n- 学术研究\n- 技术文档\n- 未分类\n- 演讲材料\n- 设计文档\n- 项目文档\n\n待分类文件：\n文件名: 消息队列常见面试题.pdf\n大小: 17.4 MB\n修改时间: 2024-10-15 17:02:35.801542\n---\n文件名: 消息队列常见面试题夜间版.pdf\n大小: 17.1 MB\n修改时间: 2024-10-15 17:02:41.534338\n---\n文件名: 设计模式面试题汇总.pdf\n大小: 1.9 MB\n修改时间: 2024-10-15 17:02:43.151366'}], 'model': 'deepseek-chat', 'temperature': 0.2}}
+2025-01-10 21:02:06,404 - openai._base_client - DEBUG - Sending HTTP Request: POST https://api.deepseek.com/chat/completions
+2025-01-10 21:02:06,404 - httpcore.connection - DEBUG - connect_tcp.started host='api.deepseek.com' port=443 local_address=None timeout=5.0 socket_options=None
+2025-01-10 21:02:06,420 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002475362BC40>
+2025-01-10 21:02:06,420 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x00000247471F8EC0> server_hostname='api.deepseek.com' timeout=5.0
+2025-01-10 21:02:06,435 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002475362BBB0>
+2025-01-10 21:02:06,435 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-01-10 21:02:06,435 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-01-10 21:02:06,436 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-01-10 21:02:06,436 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-01-10 21:02:06,436 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-01-10 21:02:06,522 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Server', b'nginx'), (b'Date', b'Fri, 10 Jan 2025 13:02:04 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Set-Cookie', b'HWWAFSESID=6c7b2673386dd8f5cce; path=/'), (b'Set-Cookie', b'HWWAFSESTIME=1736514121273; path=/'), (b'vary', b'origin, access-control-request-method, access-control-request-headers'), (b'access-control-allow-credentials', b'true'), (b'x-ds-trace-id', b'f030edd572b1d386c1434337d7f64a8d'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'X-Content-Type-Options', b'nosniff')])
+2025-01-10 21:02:06,523 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-01-10 21:02:06,523 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-01-10 21:02:11,085 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-01-10 21:02:11,085 - httpcore.http11 - DEBUG - response_closed.started
+2025-01-10 21:02:11,085 - httpcore.http11 - DEBUG - response_closed.complete
+2025-01-10 21:02:11,086 - openai._base_client - DEBUG - HTTP Response: POST https://api.deepseek.com/chat/completions "200 OK" Headers([('server', 'nginx'), ('date', 'Fri, 10 Jan 2025 13:02:04 GMT'), ('content-type', 'application/json'), ('transfer-encoding', 'chunked'), ('connection', 'keep-alive'), ('set-cookie', 'HWWAFSESID=6c7b2673386dd8f5cce; path=/'), ('set-cookie', 'HWWAFSESTIME=1736514121273; path=/'), ('vary', 'origin, access-control-request-method, access-control-request-headers'), ('access-control-allow-credentials', 'true'), ('x-ds-trace-id', 'f030edd572b1d386c1434337d7f64a8d'), ('strict-transport-security', 'max-age=31536000; includeSubDomains; preload'), ('x-content-type-options', 'nosniff')])
+2025-01-10 21:02:11,086 - openai._base_client - DEBUG - request_id: None
+2025-01-10 21:02:11,086 - src.core.ai_classifier - DEBUG - DeepSeek API 调用完成
+2025-01-10 21:02:11,086 - src.core.ai_classifier - DEBUG - AI原始响应:
+{
+    "消息队列常见面试题.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名表明这是一份关于消息队列的面试题汇总，适合归类为学习资料，用于准备面试或学习相关知识"
+    },
+    "消息队列常见面试题夜间版.pdf": {
+        "target_folder": "学习资料",
+        "reason": "此文件与'消息队列常见面试题.pdf'内容相似，只是版本不同，同样适合归类为学习资料，用于面试准备或学习"
+    },
+    "设计模式面试题汇总.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名表明这是一份关于设计模式的面试题汇总，适合归类为学习资料，用于准备面试或学习设计模式相关知识"
+    }
+}
+2025-01-10 21:02:11,086 - src.core.ai_classifier - DEBUG - 提取的JSON文本:
+{
+    "消息队列常见面试题.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名表明这是一份关于消息队列的面试题汇总，适合归类为学习资料，用于准备面试或学习相关知识"
+    },
+    "消息队列常见面试题夜间版.pdf": {
+        "target_folder": "学习资料",
+        "reason": "此文件与'消息队列常见面试题.pdf'内容相似，只是版本不同，同样适合归类为学习资料，用于面试准备或学习"
+    },
+    "设计模式面试题汇总.pdf": {
+        "target_folder": "学习资料",
+        "reason": "文件名表明这是一份关于设计模式的面试题汇总，适合归类为学习资料，用于准备面试或学习设计模式相关知识"
+    }
+}
+2025-01-10 21:02:11,086 - src.core.ai_classifier - DEBUG - AI响应解析完成，获得 3 个分类结果
+2025-01-10 21:02:11,086 - src.core.ai_classifier - DEBUG - 文件 消息队列常见面试题.pdf 被分类到 学习资料
+2025-01-10 21:02:11,086 - src.core.ai_classifier - DEBUG - 文件 消息队列常见面试题夜间版.pdf 被分类到 学习资料
+2025-01-10 21:02:11,086 - src.core.ai_classifier - DEBUG - 文件 设计模式面试题汇总.pdf 被分类到 学习资料
+2025-01-10 21:02:11,086 - src.core.ai_classifier - DEBUG - 分类完成统计:
+2025-01-10 21:02:11,086 - src.core.ai_classifier - DEBUG - - 复用已有分类: 1 个 ['学习资料']
+2025-01-10 21:02:11,086 - src.core.ai_classifier - DEBUG - - 新建分类: 0 个 []
+2025-01-10 21:02:11,086 - root - DEBUG - 批次处理完成，获得 3 个结果
+2025-01-10 21:02:11,086 - root - DEBUG - 当前进度: 100%
+2025-01-10 21:02:11,086 - root - DEBUG - 所有批次处理完成，准备更新结果...
+2025-01-10 21:02:11,097 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA.zip -> E:/package\学习资料
+2025-01-10 21:02:11,097 - src.core.file_mover - DEBUG - 使用原文件名: JAVA.zip
+2025-01-10 21:02:11,098 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\JAVA.zip
+2025-01-10 21:02:11,463 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA.zip -> E:/package\学习资料\JAVA.zip
+2025-01-10 21:02:11,463 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\1000道 互联网Java工程师面试题 485页_PDF.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,463 - src.core.file_mover - DEBUG - 使用原文件名: 1000道 互联网Java工程师面试题 485页_PDF.pdf
+2025-01-10 21:02:11,463 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\1000道 互联网Java工程师面试题 485页_PDF.pdf
+2025-01-10 21:02:11,477 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\1000道 互联网Java工程师面试题 485页_PDF.pdf -> E:/package\学习资料\1000道 互联网Java工程师面试题 485页_PDF.pdf
+2025-01-10 21:02:11,478 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\Java 工程师进阶知识完全扫盲.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,478 - src.core.file_mover - DEBUG - 使用原文件名: Java 工程师进阶知识完全扫盲.pdf
+2025-01-10 21:02:11,478 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\Java 工程师进阶知识完全扫盲.pdf
+2025-01-10 21:02:11,494 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\Java 工程师进阶知识完全扫盲.pdf -> E:/package\学习资料\Java 工程师进阶知识完全扫盲.pdf
+2025-01-10 21:02:11,494 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\JavaGuide面试突击最新版.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,495 - src.core.file_mover - DEBUG - 使用原文件名: JavaGuide面试突击最新版.pdf
+2025-01-10 21:02:11,495 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\JavaGuide面试突击最新版.pdf
+2025-01-10 21:02:11,525 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\JavaGuide面试突击最新版.pdf -> E:/package\学习资料\JavaGuide面试突击最新版.pdf
+2025-01-10 21:02:11,526 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\JavaGuide面试突击最新版夜间模式.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,526 - src.core.file_mover - DEBUG - 使用原文件名: JavaGuide面试突击最新版夜间模式.pdf
+2025-01-10 21:02:11,526 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\JavaGuide面试突击最新版夜间模式.pdf
+2025-01-10 21:02:11,554 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\JavaGuide面试突击最新版夜间模式.pdf -> E:/package\学习资料\JavaGuide面试突击最新版夜间模式.pdf
+2025-01-10 21:02:11,555 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\Java基础知识篇.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,555 - src.core.file_mover - DEBUG - 使用原文件名: Java基础知识篇.pdf
+2025-01-10 21:02:11,555 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\Java基础知识篇.pdf
+2025-01-10 21:02:11,563 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\Java基础知识篇.pdf -> E:/package\学习资料\Java基础知识篇.pdf
+2025-01-10 21:02:11,564 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\JAVA核心面试知识整理.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,564 - src.core.file_mover - DEBUG - 使用原文件名: JAVA核心面试知识整理.pdf
+2025-01-10 21:02:11,564 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\JAVA核心面试知识整理.pdf
+2025-01-10 21:02:11,580 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\JAVA核心面试知识整理.pdf -> E:/package\学习资料\JAVA核心面试知识整理.pdf
+2025-01-10 21:02:11,581 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\Java集合框架常见面试题.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,581 - src.core.file_mover - DEBUG - 使用原文件名: Java集合框架常见面试题.pdf
+2025-01-10 21:02:11,581 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\Java集合框架常见面试题.pdf
+2025-01-10 21:02:11,590 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\Java集合框架常见面试题.pdf -> E:/package\学习资料\Java集合框架常见面试题.pdf
+2025-01-10 21:02:11,591 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\Java集合框架常见面试题夜间阅读版.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,591 - src.core.file_mover - DEBUG - 使用原文件名: Java集合框架常见面试题夜间阅读版.pdf
+2025-01-10 21:02:11,591 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\Java集合框架常见面试题夜间阅读版.pdf
+2025-01-10 21:02:11,601 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\Java集合框架常见面试题夜间阅读版.pdf -> E:/package\学习资料\Java集合框架常见面试题夜间阅读版.pdf
+2025-01-10 21:02:11,602 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\RocketMQ 从入门到实战.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,602 - src.core.file_mover - DEBUG - 使用原文件名: RocketMQ 从入门到实战.pdf
+2025-01-10 21:02:11,602 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\RocketMQ 从入门到实战.pdf
+2025-01-10 21:02:11,616 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\RocketMQ 从入门到实战.pdf -> E:/package\学习资料\RocketMQ 从入门到实战.pdf
+2025-01-10 21:02:11,617 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\RocketMQ源码解析.pdf -> E:/package\技术文档
+2025-01-10 21:02:11,617 - src.core.file_mover - DEBUG - 使用原文件名: RocketMQ源码解析.pdf
+2025-01-10 21:02:11,617 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\技术文档\RocketMQ源码解析.pdf
+2025-01-10 21:02:11,629 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\RocketMQ源码解析.pdf -> E:/package\技术文档\RocketMQ源码解析.pdf
+2025-01-10 21:02:11,630 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\String常用方法.docx -> E:/package\学习资料
+2025-01-10 21:02:11,630 - src.core.file_mover - DEBUG - 使用原文件名: String常用方法.docx
+2025-01-10 21:02:11,630 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\String常用方法.docx
+2025-01-10 21:02:11,662 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\String常用方法.docx -> E:/package\学习资料\String常用方法.docx
+2025-01-10 21:02:11,662 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\下载说明.txt -> E:/package\未分类
+2025-01-10 21:02:11,662 - src.core.file_mover - DEBUG - 使用原文件名: 下载说明.txt
+2025-01-10 21:02:11,663 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\未分类\下载说明.txt
+2025-01-10 21:02:11,663 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\下载说明.txt -> E:/package\未分类\下载说明.txt
+2025-01-10 21:02:11,663 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\分布式相关面试题汇总.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,663 - src.core.file_mover - DEBUG - 使用原文件名: 分布式相关面试题汇总.pdf
+2025-01-10 21:02:11,664 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\分布式相关面试题汇总.pdf
+2025-01-10 21:02:11,678 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\分布式相关面试题汇总.pdf -> E:/package\学习资料\分布式相关面试题汇总.pdf
+2025-01-10 21:02:11,679 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\图解HTTP.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,679 - src.core.file_mover - DEBUG - 使用原文件名: 图解HTTP.pdf
+2025-01-10 21:02:11,679 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\图解HTTP.pdf
+2025-01-10 21:02:11,697 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\图解HTTP.pdf -> E:/package\学习资料\图解HTTP.pdf
+2025-01-10 21:02:11,700 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\图解操作系统.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,700 - src.core.file_mover - DEBUG - 使用原文件名: 图解操作系统.pdf
+2025-01-10 21:02:11,700 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\图解操作系统.pdf
+2025-01-10 21:02:11,779 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\图解操作系统.pdf -> E:/package\学习资料\图解操作系统.pdf
+2025-01-10 21:02:11,780 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\图解网络.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,780 - src.core.file_mover - DEBUG - 使用原文件名: 图解网络.pdf
+2025-01-10 21:02:11,780 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\图解网络.pdf
+2025-01-10 21:02:11,832 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\图解网络.pdf -> E:/package\学习资料\图解网络.pdf
+2025-01-10 21:02:11,832 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\图解计算机基础.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,832 - src.core.file_mover - DEBUG - 使用原文件名: 图解计算机基础.pdf
+2025-01-10 21:02:11,832 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\图解计算机基础.pdf
+2025-01-10 21:02:11,867 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\图解计算机基础.pdf -> E:/package\学习资料\图解计算机基础.pdf
+2025-01-10 21:02:11,868 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\字节大佬总结的Java面试资料.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,868 - src.core.file_mover - DEBUG - 使用原文件名: 字节大佬总结的Java面试资料.pdf
+2025-01-10 21:02:11,868 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\字节大佬总结的Java面试资料.pdf
+2025-01-10 21:02:11,886 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\字节大佬总结的Java面试资料.pdf -> E:/package\学习资料\字节大佬总结的Java面试资料.pdf
+2025-01-10 21:02:11,886 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\技术面试常见智力题.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,886 - src.core.file_mover - DEBUG - 使用原文件名: 技术面试常见智力题.pdf
+2025-01-10 21:02:11,886 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\技术面试常见智力题.pdf
+2025-01-10 21:02:11,897 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\技术面试常见智力题.pdf -> E:/package\学习资料\技术面试常见智力题.pdf
+2025-01-10 21:02:11,898 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\消息队列常见面试题.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,898 - src.core.file_mover - DEBUG - 使用原文件名: 消息队列常见面试题.pdf
+2025-01-10 21:02:11,898 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\消息队列常见面试题.pdf
+2025-01-10 21:02:11,977 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\消息队列常见面试题.pdf -> E:/package\学习资料\消息队列常见面试题.pdf
+2025-01-10 21:02:11,978 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\消息队列常见面试题夜间版.pdf -> E:/package\学习资料
+2025-01-10 21:02:11,979 - src.core.file_mover - DEBUG - 使用原文件名: 消息队列常见面试题夜间版.pdf
+2025-01-10 21:02:11,979 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\消息队列常见面试题夜间版.pdf
+2025-01-10 21:02:12,011 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\消息队列常见面试题夜间版.pdf -> E:/package\学习资料\消息队列常见面试题夜间版.pdf
+2025-01-10 21:02:12,012 - src.core.file_mover - DEBUG - 准备移动文件: D:/面试\JAVA\设计模式面试题汇总.pdf -> E:/package\学习资料
+2025-01-10 21:02:12,012 - src.core.file_mover - DEBUG - 使用原文件名: 设计模式面试题汇总.pdf
+2025-01-10 21:02:12,012 - src.core.file_mover - DEBUG - 开始移动文件到: E:/package\学习资料\设计模式面试题汇总.pdf
+2025-01-10 21:02:12,021 - src.core.file_mover - INFO - 文件移动成功: D:/面试\JAVA\设计模式面试题汇总.pdf -> E:/package\学习资料\设计模式面试题汇总.pdf
+2025-01-10 21:02:20,376 - src.utils.performance - INFO - 性能监控 - CPU使用率: 1.0%, 物理内存: 173.6MB, 内存使用率: 1.1%
+2025-01-10 21:02:30,217 - src.utils.performance - INFO - 性能监控 - CPU使用率: 0.2%, 物理内存: 174.2MB, 内存使用率: 1.1%
+2025-01-10 21:02:32,349 - src.utils.performance - INFO - 性能监控 - CPU使用率: 0.0%, 物理内存: 174.1MB, 内存使用率: 1.1%
+2025-01-10 21:02:38,627 - src.core.file_system - DEBUG - 开始收集目录信息: D:/书
+2025-01-10 21:02:38,627 - src.core.file_system - DEBUG - 扫描目录: D:/书
+2025-01-10 21:02:38,627 - src.core.file_system - DEBUG - 处理文件: D:/书\ad0e2e939b2c44219d2a86e0c4d53b37.pdf
+2025-01-10 21:02:38,627 - src.core.file_system - DEBUG - 文件信息: 大小=19.9 MB, 修改时间=2025-01-01 11:00:07.354226
+2025-01-10 21:02:38,627 - src.core.file_system - DEBUG - 处理文件: D:/书\软件工程导论 (张海藩 牟永敏) (Z-Library).pdf
+2025-01-10 21:02:38,627 - src.core.file_system - DEBUG - 文件信息: 大小=96.2 MB, 修改时间=2024-09-27 11:13:32.130739
+2025-01-10 21:02:38,627 - src.core.file_system - DEBUG - 扫描目录: D:/书\数字图像处理
+2025-01-10 21:02:38,627 - src.core.file_system - DEBUG - 处理文件: D:/书\数字图像处理\1_数字图像处理 第3版 (李俊山, 李旭辉, 朱子江) (Z-Library).pdf
+2025-01-10 21:02:38,627 - src.core.file_system - DEBUG - 文件信息: 大小=81.1 MB, 修改时间=2024-09-19 11:27:39.915711
+2025-01-10 21:02:38,627 - src.core.file_system - DEBUG - 扫描目录: D:/书\数据库系统
+2025-01-10 21:02:38,627 - src.core.file_system - DEBUG - 处理文件: D:/书\数据库系统\01-数据库系统工程师第四版 - 王亚平（全网唯一）.pdf
+2025-01-10 21:02:38,628 - src.core.file_system - DEBUG - 文件信息: 大小=145.4 MB, 修改时间=2024-11-19 11:58:21.648638
+2025-01-10 21:02:38,628 - src.core.file_system - DEBUG - 处理文件: D:/书\数据库系统\03-软考数据库系统工程师复习笔记(经典!).docx
+2025-01-10 21:02:38,628 - src.core.file_system - DEBUG - 文件信息: 大小=2.9 MB, 修改时间=2024-11-19 11:58:14.133337
+2025-01-10 21:02:38,628 - src.core.file_system - DEBUG - 处理文件: D:/书\数据库系统\[王亚平]数据库系统工程师教程第三版(OCR).pdf
+2025-01-10 21:02:38,628 - src.core.file_system - DEBUG - 文件信息: 大小=80.6 MB, 修改时间=2024-09-05 18:05:29.799199
+2025-01-10 21:02:38,628 - src.core.file_system - DEBUG - 处理文件: D:/书\数据库系统\数据库系统工程师考试考前串讲(ED2000.COM).pdf
+2025-01-10 21:02:38,628 - src.core.file_system - DEBUG - 文件信息: 大小=391.1 MB, 修改时间=2024-11-19 11:58:27.547400
+2025-01-10 21:02:38,628 - src.core.file_system - DEBUG - 扫描目录: D:/书\数据挖掘
+2025-01-10 21:02:38,628 - src.core.file_system - DEBUG - 处理文件: D:/书\数据挖掘\DATA MINING Concepts and Techniques.pdf
+2025-01-10 21:02:38,628 - src.core.file_system - DEBUG - 文件信息: 大小=14.4 MB, 修改时间=2014-12-09 18:07:08.530328
+2025-01-10 21:02:38,628 - src.core.file_system - DEBUG - 处理文件: D:/书\数据挖掘\数学建模算法与应用（第2版） (司守奎 孙兆亮) (Z-Library)-1.pdf
+2025-01-10 21:02:38,628 - src.core.file_system - DEBUG - 文件信息: 大小=85.5 MB, 修改时间=2024-09-04 18:30:11.690366
+2025-01-10 21:02:38,629 - src.core.file_system - DEBUG - 处理文件: D:/书\数据挖掘\数据挖掘概念与技术 第三版.pdf
+2025-01-10 21:02:38,629 - src.core.file_system - DEBUG - 文件信息: 大小=34.1 MB, 修改时间=2014-12-11 11:49:05.819069
+2025-01-10 21:02:38,629 - src.core.file_system - DEBUG - 扫描目录: D:/书\相关资讯
+2025-01-10 21:02:38,629 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\2.《何川讲透升职加薪》读书笔记.pdf
+2025-01-10 21:02:38,629 - src.core.file_system - DEBUG - 文件信息: 大小=16.7 MB, 修改时间=2024-08-11 20:40:04.841521
+2025-01-10 21:02:38,629 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\GB-T 44109-2024 信息技术 大数据 数据治理实施指南.pdf
+2025-01-10 21:02:38,629 - src.core.file_system - DEBUG - 文件信息: 大小=6.4 MB, 修改时间=2024-07-23 12:58:33.846078
+2025-01-10 21:02:38,629 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\_金融业图数据库建设发展调研报告2023-有水印.pdf
+2025-01-10 21:02:38,629 - src.core.file_system - DEBUG - 文件信息: 大小=13.9 MB, 修改时间=2024-08-23 16:12:47.946461
+2025-01-10 21:02:38,629 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\《底层逻辑2》刘润.原书.pdf
+2025-01-10 21:02:38,629 - src.core.file_system - DEBUG - 文件信息: 大小=15.3 MB, 修改时间=2024-08-11 20:40:08.051553
+2025-01-10 21:02:38,629 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\《打开心智》-人生破局的关键思维，4个基本原理+6大成长阶梯+30个行动步 2.pdf
+2025-01-10 21:02:38,630 - src.core.file_system - DEBUG - 文件信息: 大小=2.1 MB, 修改时间=2024-08-11 20:40:04.977256
+2025-01-10 21:02:38,630 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\中国城市统计年鉴2023（excel）.zip
+2025-01-10 21:02:38,630 - src.core.file_system - DEBUG - 文件信息: 大小=3.8 MB, 修改时间=2024-08-05 08:16:26.667555
+2025-01-10 21:02:38,630 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\主要统计指标解释.pdf
+2025-01-10 21:02:38,630 - src.core.file_system - DEBUG - 文件信息: 大小=2.9 MB, 修改时间=2024-08-05 08:15:25.432401
+2025-01-10 21:02:38,630 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\从IP打造到高效变现：视频号运营全案（374页PPT）.pdf
+2025-01-10 21:02:38,630 - src.core.file_system - DEBUG - 文件信息: 大小=5.7 MB, 修改时间=2024-08-11 20:40:05.604029
+2025-01-10 21:02:38,630 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\十五套笔记整理版.pdf
+2025-01-10 21:02:38,630 - src.core.file_system - DEBUG - 文件信息: 大小=19.1 MB, 修改时间=2024-08-11 20:40:12.299592
+2025-01-10 21:02:38,630 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\危险化学品进出口贸易分析20240829.pdf
+2025-01-10 21:02:38,630 - src.core.file_system - DEBUG - 文件信息: 大小=3.3 MB, 修改时间=2024-09-04 16:10:39.363986
+2025-01-10 21:02:38,630 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\品牌门店爆破计划.pdf
+2025-01-10 21:02:38,630 - src.core.file_system - DEBUG - 文件信息: 大小=4.3 MB, 修改时间=2024-08-11 20:40:12.602586
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\基于德尔菲法构建ICU护理缺失评估量表_阳莉.pdf
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 文件信息: 大小=1.1 MB, 修改时间=2024-08-05 13:17:45.192552
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\张江集团数据中台建设项目-建设内容及计划-20240814-V2.0.pptx
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 文件信息: 大小=10.1 MB, 修改时间=2024-08-15 10:51:43.453888
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\日韩进出口贸易分析.pdf
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 文件信息: 大小=3.5 MB, 修改时间=2024-09-20 09:52:15.468805
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\最全复盘方法论.pdf
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 文件信息: 大小=6.9 MB, 修改时间=2024-08-11 20:40:08.668870
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\梁宁-产品课件.pdf
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 文件信息: 大小=17.7 MB, 修改时间=2024-08-11 20:40:11.309527
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\深度学习快速上手.pdf
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 文件信息: 大小=1.6 MB, 修改时间=2024-08-30 22:46:07.909784
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\用户行为分析项目.pptx
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 文件信息: 大小=6.7 MB, 修改时间=2024-08-19 18:43:43.545602
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\直播全流程：详解人货场三要素.pdf
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 文件信息: 大小=5.8 MB, 修改时间=2024-08-11 20:40:07.483191
+2025-01-10 21:02:38,632 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\第四纪冰期-世界冰封“雪球“模型-sci论文.pdf
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 文件信息: 大小=1.4 MB, 修改时间=2024-08-11 20:31:08.630635
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 处理文件: D:/书\相关资讯\陶易斯的税优健康险建议书.pdf
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 文件信息: 大小=916.0 KB, 修改时间=2024-07-23 18:01:16.909761
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 扫描目录: D:/书\经济学
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 处理文件: D:/书\经济学\经济学原理：微观经济学分册（第七版） (N. Greg_ (Z-Library).pdf
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 文件信息: 大小=39.0 MB, 修改时间=2024-09-21 19:18:56.630735
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 扫描目录: D:/书\考研英语
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 处理文件: D:/书\考研英语\2023《红宝书精缩版》.pdf
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 文件信息: 大小=75.1 MB, 修改时间=2024-09-27 00:31:47.357814
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 处理文件: D:/书\考研英语\2023《红宝书练习题》.pdf
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 文件信息: 大小=57.5 MB, 修改时间=2024-09-27 00:31:51.552014
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 处理文件: D:/书\考研英语\2023《红宝书考研英语词汇》.pdf
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 文件信息: 大小=316.0 MB, 修改时间=2024-09-27 00:31:50.830946
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 处理文件: D:/书\考研英语\2023《红宝书连线自测本》.pdf
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 文件信息: 大小=37.3 MB, 修改时间=2024-09-27 00:31:52.649359
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 扫描目录: D:/书\论文
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 处理文件: D:/书\论文\三叉戟智能调度算法预研-v5-20240904_155909.pdf
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 文件信息: 大小=846.5 KB, 修改时间=2024-09-04 16:10:37.281397
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 处理文件: D:/书\论文\人工智能经典论文解读.pdf
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 文件信息: 大小=2.7 MB, 修改时间=2024-09-24 21:25:02.559651
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 处理文件: D:/书\论文\基于深度学习的计算机视觉.pdf
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 文件信息: 大小=1.0 MB, 修改时间=2024-09-13 15:56:27.971083
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 处理文件: D:/书\论文\基于相似阈值学习的台风路径分类方法.pdf
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 文件信息: 大小=1.9 MB, 修改时间=2024-09-25 17:51:41.618979
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 扫描目录: D:/书\语言学
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 处理文件: D:/书\语言学\计量语言学导论 (刘海涛) (Z-Library).pdf
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 文件信息: 大小=36.7 MB, 修改时间=2024-08-22 23:51:07.546359
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 扫描目录: D:/书\软考
+2025-01-10 21:02:38,633 - src.core.file_system - DEBUG - 处理文件: D:/书\软考\【无水印有目录】第四版信息系统项目管理师教程(OCR).pdf
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 文件信息: 大小=503.1 MB, 修改时间=2024-09-22 10:13:00.940577
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 扫描目录: D:/书\高等数学
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 处理文件: D:/书\高等数学\《大学生数学竞赛教程》 [蒲和平] 编著.pdf
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 文件信息: 大小=46.5 MB, 修改时间=2024-09-21 19:18:57.211735
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 处理文件: D:/书\高等数学\第一讲：函数、极限、连续.pdf
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 文件信息: 大小=1.2 MB, 修改时间=2024-09-21 19:17:41.201419
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 处理文件: D:/书\高等数学\第三讲：中值定理和不等式.pdf
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 文件信息: 大小=1.5 MB, 修改时间=2024-09-21 19:17:31.059292
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 处理文件: D:/书\高等数学\第二讲：一元函数微分.pdf
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 文件信息: 大小=961.5 KB, 修改时间=2024-09-21 19:17:31.192648
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 处理文件: D:/书\高等数学\高等数学第8版上册.pdf
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 文件信息: 大小=79.8 MB, 修改时间=2024-09-23 13:54:08.514669
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 处理文件: D:/书\高等数学\高等数学第8版下册.pdf
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 文件信息: 大小=70.3 MB, 修改时间=2024-09-23 13:54:02.535960
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 扫描目录: D:/书\麦肯锡
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 处理文件: D:/书\麦肯锡\麦肯锡工具 (保罗·弗里嘉) (Z-Library).pdf
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 文件信息: 大小=4.5 MB, 修改时间=2024-08-02 11:23:42.863907
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 处理文件: D:/书\麦肯锡\麦肯锡意识 (艾森·拉塞尔) (Z-Library).pdf
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 文件信息: 大小=2.2 MB, 修改时间=2024-08-02 11:23:40.133462
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 处理文件: D:/书\麦肯锡\麦肯锡方法 (〔美〕艾森·拉塞尔著；张薇薇译) (Z-Library)(1).pdf
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 文件信息: 大小=11.6 MB, 修改时间=2024-08-02 11:23:45.627146
+2025-01-10 21:02:38,635 - src.core.file_system - DEBUG - 文件信息收集完成，共 51 个文件
+2025-01-10 21:02:38,635 - src.core.file_filter - DEBUG - 检查文件 D:/书\ad0e2e939b2c44219d2a86e0c4d53b37.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,635 - src.core.file_filter - DEBUG - 检查文件 D:/书\软件工程导论 (张海藩 牟永敏) (Z-Library).pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,635 - src.core.file_filter - DEBUG - 检查文件 D:/书\数字图像处理\1_数字图像处理 第3版 (李俊山, 李旭辉, 朱子江) (Z-Library).pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,635 - src.core.file_filter - DEBUG - 检查文件 D:/书\数据库系统\01-数据库系统工程师第四版 - 王亚平（全网唯一）.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,635 - src.core.file_filter - DEBUG - 检查文件 D:/书\数据库系统\03-软考数据库系统工程师复习笔记(经典!).docx - 扩展名: .docx - 允许
+2025-01-10 21:02:38,635 - src.core.file_filter - DEBUG - 检查文件 D:/书\数据库系统\[王亚平]数据库系统工程师教程第三版(OCR).pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,635 - src.core.file_filter - DEBUG - 检查文件 D:/书\数据库系统\数据库系统工程师考试考前串讲(ED2000.COM).pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,635 - src.core.file_filter - DEBUG - 检查文件 D:/书\数据挖掘\DATA MINING Concepts and Techniques.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,635 - src.core.file_filter - DEBUG - 检查文件 D:/书\数据挖掘\数学建模算法与应用（第2版） (司守奎 孙兆亮) (Z-Library)-1.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\数据挖掘\数据挖掘概念与技术 第三版.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\2.《何川讲透升职加薪》读书笔记.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\GB-T 44109-2024 信息技术 大数据 数据治理实施指南.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\_金融业图数据库建设发展调研报告2023-有水印.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\《底层逻辑2》刘润.原书.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\《打开心智》-人生破局的关键思维，4个基本原理+6大成长阶梯+30个行动步 2.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\中国城市统计年鉴2023（excel）.zip - 扩展名: .zip - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\主要统计指标解释.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\从IP打造到高效变现：视频号运营全案（374页PPT）.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\十五套笔记整理版.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\危险化学品进出口贸易分析20240829.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\品牌门店爆破计划.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\基于德尔菲法构建ICU护理缺失评估量表_阳莉.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\张江集团数据中台建设项目-建设内容及计划-20240814-V2.0.pptx - 扩展名: .pptx - 不允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\日韩进出口贸易分析.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\最全复盘方法论.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\梁宁-产品课件.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\深度学习快速上手.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\用户行为分析项目.pptx - 扩展名: .pptx - 不允许
+2025-01-10 21:02:38,637 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\直播全流程：详解人货场三要素.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\第四纪冰期-世界冰封“雪球“模型-sci论文.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\相关资讯\陶易斯的税优健康险建议书.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\经济学\经济学原理：微观经济学分册（第七版） (N. Greg_ (Z-Library).pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\考研英语\2023《红宝书精缩版》.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\考研英语\2023《红宝书练习题》.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\考研英语\2023《红宝书考研英语词汇》.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\考研英语\2023《红宝书连线自测本》.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\论文\三叉戟智能调度算法预研-v5-20240904_155909.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\论文\人工智能经典论文解读.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\论文\基于深度学习的计算机视觉.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\论文\基于相似阈值学习的台风路径分类方法.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\语言学\计量语言学导论 (刘海涛) (Z-Library).pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\软考\【无水印有目录】第四版信息系统项目管理师教程(OCR).pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\高等数学\《大学生数学竞赛教程》 [蒲和平] 编著.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\高等数学\第一讲：函数、极限、连续.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\高等数学\第三讲：中值定理和不等式.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\高等数学\第二讲：一元函数微分.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\高等数学\高等数学第8版上册.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\高等数学\高等数学第8版下册.pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\麦肯锡\麦肯锡工具 (保罗·弗里嘉) (Z-Library).pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\麦肯锡\麦肯锡意识 (艾森·拉塞尔) (Z-Library).pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - src.core.file_filter - DEBUG - 检查文件 D:/书\麦肯锡\麦肯锡方法 (〔美〕艾森·拉塞尔著；张薇薇译) (Z-Library)(1).pdf - 扩展名: .pdf - 允许
+2025-01-10 21:02:38,638 - root - INFO - 函数 refresh_file_list 执行完成 - 耗时: 0.01秒, 内存变化: +0.0MB
+2025-01-10 21:02:38,639 - root - INFO - 函数 select_folder 执行完成 - 耗时: 3.61秒, 内存变化: +1.1MB
+2025-01-10 21:02:45,026 - src.utils.performance - INFO - 性能监控 - CPU使用率: 5.8%, 物理内存: 176.4MB, 内存使用率: 1.1%
+2025-01-10 21:03:00,169 - src.utils.performance - INFO - 性能监控 - CPU使用率: 0.3%, 物理内存: 179.0MB, 内存使用率: 1.1%
+2025-01-10 21:03:01,314 - root - INFO - 函数 select_folder 执行完成 - 耗时: 1.57秒, 内存变化: +0.2MB
+2025-01-10 21:03:03,907 - src.utils.performance - INFO - 性能监控 - CPU使用率: 0.4%, 物理内存: 176.7MB, 内存使用率: 1.1%
+2025-01-10 21:03:07,642 - src.utils.performance - INFO - 性能监控 - CPU使用率: 0.0%, 物理内存: 176.8MB, 内存使用率: 1.1%
+2025-01-10 21:03:17,413 - root - INFO - 函数 run 执行完成 - 耗时: 257.24秒, 内存变化: +105.3MB
+2025-01-10 21:03:17,454 - httpcore.connection - DEBUG - close.started
+2025-01-10 21:03:17,454 - httpcore.connection - DEBUG - close.complete
+2025-01-10 21:03:17,455 - httpcore.connection - DEBUG - close.started
+2025-01-10 21:03:17,455 - httpcore.connection - DEBUG - close.complete

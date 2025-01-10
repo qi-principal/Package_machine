@@ -1,0 +1,22 @@
+2025-01-10 20:57:36,184 - root - INFO - 日志系统初始化完成
+2025-01-10 20:57:36,184 - root - DEBUG - 日志文件: logs\debug_20250110_205736.log
+2025-01-10 20:57:36,193 - src.core.file_system - DEBUG - 文件系统处理器初始化完成
+2025-01-10 20:57:36,193 - src.core.file_filter - DEBUG - 文件过滤器初始化完成
+2025-01-10 20:57:36,193 - src.core.file_mover - DEBUG - 文件移动器初始化完成
+2025-01-10 20:57:36,966 - src.core.file_filter - DEBUG - 添加允许的扩展名: .txt
+2025-01-10 20:57:36,966 - src.core.file_filter - DEBUG - 添加允许的扩展名: .doc
+2025-01-10 20:57:36,966 - src.core.file_filter - DEBUG - 添加允许的扩展名: .docx
+2025-01-10 20:57:36,966 - src.core.file_filter - DEBUG - 添加允许的扩展名: .pdf
+2025-01-10 20:57:36,967 - src.core.file_filter - DEBUG - 添加允许的扩展名: .jpg
+2025-01-10 20:57:36,967 - src.core.file_filter - DEBUG - 添加允许的扩展名: .jpeg
+2025-01-10 20:57:36,967 - src.core.file_filter - DEBUG - 添加允许的扩展名: .png
+2025-01-10 20:57:36,967 - src.core.file_filter - DEBUG - 添加允许的扩展名: .gif
+2025-01-10 20:57:36,967 - src.core.file_filter - DEBUG - 添加允许的扩展名: .mp3
+2025-01-10 20:57:36,967 - src.core.file_filter - DEBUG - 添加允许的扩展名: .mp4
+2025-01-10 20:57:36,967 - src.core.file_filter - DEBUG - 添加允许的扩展名: .zip
+2025-01-10 20:57:36,967 - src.core.file_filter - DEBUG - 添加允许的扩展名: .rar
+2025-01-10 20:57:36,967 - root - INFO - 函数 initialize 执行完成 - 耗时: 0.78秒, 内存变化: +14.0MB
+2025-01-10 20:57:54,124 - src.utils.performance - ERROR - 性能监控失败: 'pmem' object has no attribute 'shared'
+2025-01-10 20:58:06,960 - src.utils.performance - ERROR - 性能监控失败: 'pmem' object has no attribute 'shared'
+2025-01-10 20:58:36,973 - src.utils.performance - ERROR - 性能监控失败: 'pmem' object has no attribute 'shared'
+2025-01-10 20:58:56,870 - root - INFO - 函数 run 执行完成 - 耗时: 79.90秒, 内存变化: +55.0MB

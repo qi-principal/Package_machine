@@ -1,0 +1,16 @@
+# 基础依赖
+typing>=3.7.4.3
+
+# GUI依赖
+PyQt5>=5.15.0
+PyQtChart>=5.15.0
+
+# AI接口依赖
+openai>=0.27.0
+
+# 测试依赖
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+# 打包工具
+pyinstaller>=5.13.0 

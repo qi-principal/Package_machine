@@ -1,0 +1,59 @@
+{
+    "allowed_extensions": [
+        ".txt",
+        ".doc",
+        ".docx",
+        ".pdf",
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".gif",
+        ".mp3",
+        ".mp4",
+        ".zip",
+        ".rar"
+    ],
+    "backup_enabled": true,
+    "backup_dir": "E:/package",
+    "max_file_size": 104857600,
+    "logging": {
+        "level": "INFO",
+        "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+    },
+    "ui": {
+        "theme": "light",
+        "language": "zh_CN",
+        "window_size": {
+            "width": 2560,
+            "height": 1251
+        },
+        "dock": {
+            "performance": {
+                "visible": true,
+                "area": 2
+            },
+            "api": {
+                "visible": true,
+                "area": 2
+            }
+        },
+        "window_state": "000000ff00000000fd0000000100000001000002b80000049bfc0200000002fbffffffff0100000029000002250000022500fffffffbffffffff010000025400000270000001a800ffffff000007420000049b00000004000000040000000800000008fc00000000"
+    },
+    "auto_save": true,
+    "openai": {
+        "api_key": "sk-9139d997af534b11bd4c58f7b49d2f15",
+        "model": "deepseek-chat",
+        "base_url": "https://api.deepseek.com"
+    },
+    "classification": {
+        "min_categories": 2,
+        "max_categories": 5
+    },
+    "auto_cleanup": true,
+    "target_directory": "E:/package",
+    "deepseek": {
+        "api_key": "",
+        "model": "deepseek-chat",
+        "base_url": "https://api.deepseek.com"
+    }
+}

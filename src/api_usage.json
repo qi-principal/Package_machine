@@ -1,0 +1,20 @@
+{
+  "total_calls": 12,
+  "total_tokens": 2121,
+  "total_cost": 0.004242,
+  "daily_usage": {
+    "2025-01-10": {
+      "calls": 12,
+      "tokens": 2121,
+      "cost": 0.004242
+    }
+  },
+  "monthly_usage": {
+    "2025-01": {
+      "calls": 12,
+      "tokens": 2121,
+      "cost": 0.004242
+    }
+  },
+  "last_update": "2025-01-10T16:43:12.144855"
+}
