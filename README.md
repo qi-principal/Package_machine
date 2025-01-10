@@ -171,18 +171,13 @@ flake8 src/
 - iOS风格界面
 - DeepSeek AI集成
 
-## 许可证
-
-MIT License - 详见 [LICENSE](LICENSE) 文件
-
 ## 联系方式
 
-- 项目维护者：[维护者姓名]
-- 邮箱：[联系邮箱]
-- 项目主页：[项目URL]
+- 项目维护者：[Andrew]
+- 邮箱：[sunyongan011@gmail.com]
 
 ## 致谢
 
 - DeepSeek AI 提供的强大API支持
 - PyQt5 提供的GUI框架支持
-- 所有项目贡献者 
+- 伟大的梦想 
